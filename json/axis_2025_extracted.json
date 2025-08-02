@@ -1,0 +1,1370 @@
+[
+  {
+    "section_title": "I. SCOPE OF APPLICATION AND CAPITAL ADEQUACY",
+    "metrics_provided": [],
+    "content_summary": "Introduction to the Basel III Pillar 3 report",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Capital Adequacy",
+    "metrics_provided": [],
+    "content_summary": "NA",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Consolidated Financial Statements",
+    "metrics_provided": [],
+    "content_summary": "Disclosure of consolidated financial statements in accordance with AS 21",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Consolidated Entities",
+    "metrics_provided": [],
+    "content_summary": "List of consolidated entities and their consolidation methods",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Consolidated Financial Statements",
+    "metrics_provided": [],
+    "content_summary": "Disclosure of consolidated financial statements in accordance with AS 21",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Consolidated Financial Statements",
+    "metrics_provided": [],
+    "content_summary": "Disclosure of consolidated financial statements in accordance with AS 21",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Consolidated Financial Statements",
+    "metrics_provided": [],
+    "content_summary": "Disclosure of consolidated financial statements in accordance with AS 21",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Consolidated Financial Statements",
+    "metrics_provided": [],
+    "content_summary": "Disclosure of consolidated financial statements in accordance with AS 21",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Consolidated Financial Statements",
+    "metrics_provided": [],
+    "content_summary": "Disclosure of consolidated financial statements in accordance with AS 21",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Consolidated Financial Statements",
+    "metrics_provided": [],
+    "content_summary": "Disclosure of consolidated financial statements in accordance with AS 21",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Max Life Insurance",
+    "metrics_provided": [],
+    "content_summary": "Disclosure of Max Life Insurance as an associate, not consolidated for Basel III purposes",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Capital Adequacy",
+    "metrics_provided": [
+      "CET1 ratio"
+    ],
+    "content_summary": "Disclosure of capital adequacy calculation",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Consolidation",
+    "metrics_provided": [],
+    "content_summary": "Disclosure of group entities and consolidation scope",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Insurance Entities",
+    "metrics_provided": [
+      "Total Balance sheet equity",
+      "Quantitative impact on regulatory capital"
+    ],
+    "content_summary": "Disclosure of insurance entities and their impact on regulatory capital",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Deduction method",
+    "metrics_provided": [
+      "\u20b920,614 Millions",
+      "19.02%",
+      "19 Bps"
+    ],
+    "content_summary": "Disclosure of a positive impact on CRAR",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Commercial Banking and Treasury Services",
+    "metrics_provided": [
+      "USD 0.5",
+      "USD 1.57",
+      "USD 0.71",
+      "USD 0.63"
+    ],
+    "content_summary": "Disclosure of commercial banking and treasury services metrics",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Capital Adequacy",
+    "metrics_provided": [],
+    "content_summary": "Disclosure of capital adequacy metrics",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Capital Adequacy",
+    "metrics_provided": [
+      "CRAR",
+      "CET1",
+      "CCB"
+    ],
+    "content_summary": "Disclosure of the Bank's capital adequacy requirements and ratios.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Capital Requirements for various Risks",
+    "metrics_provided": [
+      "Capital requirements for Credit Risk"
+    ],
+    "content_summary": "Disclosure of capital requirements for credit risk",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Capital Requirements for various Risks",
+    "metrics_provided": [
+      "11,98,189"
+    ],
+    "content_summary": "Disclosure of capital requirements for credit risk and market risk",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Capital requirements for Market Risk",
+    "metrics_provided": [
+      "65,590",
+      "41,160",
+      "4,586",
+      "19,844"
+    ],
+    "content_summary": "Disclosure of capital requirements for market risk",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Capital requirements for Operational risk",
+    "metrics_provided": [
+      "1,35,895"
+    ],
+    "content_summary": "Disclosure of capital requirements for operational risk",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Capital Adequacy Ratios Consolidated Standalone",
+    "metrics_provided": [
+      "14.68%",
+      "14.67%",
+      "15.06%",
+      "15.07%",
+      "16.98%",
+      "17.07%"
+    ],
+    "content_summary": "Disclosure of capital adequacy ratios for consolidated and standalone entities",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Risk Governance",
+    "metrics_provided": [],
+    "content_summary": "The Bank's risk governance architecture focuses on key areas of risk such as credit, market, and operational risk, and quantification of these risks for effective and continuous monitoring and control.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Risk Management Committee",
+    "metrics_provided": [],
+    "content_summary": "Description of various executive risk committees and their responsibilities",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "IV. CREDIT RISK",
+    "metrics_provided": [],
+    "content_summary": "Disclosure on credit risk and its management by the bank.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Credit Risk Management",
+    "metrics_provided": [],
+    "content_summary": "The Bank's credit risk management process, including rating of borrowers, due diligence, and portfolio monitoring.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Credit Risk",
+    "metrics_provided": [],
+    "content_summary": "Description of the Bank's credit risk management framework and internal rating grades.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Model Validation",
+    "metrics_provided": [],
+    "content_summary": "Annual validation of the Bank's credit risk models, including PD, LGD, and CCF models.",
+    "frequency_reported": "annually"
+  },
+  {
+    "section_title": "Credit Risk",
+    "metrics_provided": [],
+    "content_summary": "The Bank's approach to credit risk management, including credit audit, concentration risk management, and early identification of emerging credit problems.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Portfolio Management",
+    "metrics_provided": [],
+    "content_summary": "Description of portfolio management practices and risk analytics",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Definitions and classification of non-performing assets",
+    "metrics_provided": [],
+    "content_summary": "Disclosure of the bank's definition and classification of non-performing assets (NPAs) as per Master Circular-Prudential norms on Income Recognition, Asset Classification & Provisioning norms pertaining to advances.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Non-Performing Assets (NPAs)",
+    "metrics_provided": [],
+    "content_summary": "Disclosure of NPA treatment for various types of loans and transactions.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Non-Performing Assets (NPAs)",
+    "metrics_provided": [],
+    "content_summary": "Disclosure of criteria for classifying credit card accounts and working capital borrowal accounts as non-performing assets (NPAs).",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Non-Performing Assets (NPAs)",
+    "metrics_provided": [],
+    "content_summary": "Disclosure of NPAs and their classification into sub-standard, doubtful, and loss assets",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Impairment of other assets",
+    "metrics_provided": [],
+    "content_summary": "Disclosure of impairment of other assets",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "CREDIT RISK EXPOSURES",
+    "metrics_provided": [
+      "Total Gross Credit Risk Exposure",
+      "Fund Based",
+      "Non-Fund Based",
+      "Domestic",
+      "Overseas"
+    ],
+    "content_summary": "Disclosure of credit risk exposures",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Distribution of Credit Risk Exposure by Industry Sector",
+    "metrics_provided": [],
+    "content_summary": "Breakdown of credit risk exposure by industry sector",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Capital Adequacy",
+    "metrics_provided": [],
+    "content_summary": "Disclosure of capital adequacy metrics",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Professional services",
+    "metrics_provided": [
+      "1,69,013",
+      "9,854"
+    ],
+    "content_summary": "Disclosure of professional services",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Rubber, Plastic and their Products",
+    "metrics_provided": [
+      "1,02,606",
+      "16,589"
+    ],
+    "content_summary": "Disclosure of rubber, plastic, and their products",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Construction",
+    "metrics_provided": [
+      "36,091",
+      "56,058"
+    ],
+    "content_summary": "Disclosure of construction",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Shipping Transportation & Logistics",
+    "metrics_provided": [
+      "57,386",
+      "37,109"
+    ],
+    "content_summary": "Disclosure of shipping, transportation, and logistics",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Industry Classification",
+    "metrics_provided": [
+      "68,907",
+      "18,660",
+      "45,486",
+      "4,977",
+      "33,209",
+      "41,315",
+      "14,000",
+      "14,794",
+      "4,65,471",
+      "94,154",
+      "1,00,29,132",
+      "1,16,840"
+    ],
+    "content_summary": "Breakdown of the bank's exposure to various industries",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Residual Contractual Maturity Breakdown of Assets",
+    "metrics_provided": [],
+    "content_summary": "Breakdown of the Bank's assets by residual contractual maturity",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Credit Risk",
+    "metrics_provided": [
+      "80,739",
+      "6,55,645",
+      "3,07,998",
+      "40,03,989",
+      "1,08,16,710",
+      "64,921",
+      "6,96,761"
+    ],
+    "content_summary": "Disclosure of credit risk exposure",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Movement of NPAs (including NPIs)",
+    "metrics_provided": [
+      "148,203",
+      "79,392",
+      "23,771",
+      "9,910",
+      "946",
+      "34,184",
+      "38,218"
+    ],
+    "content_summary": "Disclosure of Non-Performing Assets (NPAs) and Net NPAs",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "NPA Ratios",
+    "metrics_provided": [
+      "1.36%",
+      "0.35%"
+    ],
+    "content_summary": "Disclosure of NPA ratios (Gross and Net) as a percentage of gross and net advances",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Net NPAs (including NPIs) to net advances",
+    "metrics_provided": [
+      "0.35%"
+    ],
+    "content_summary": "Disclosure of net non-performing assets (NPAs) as a percentage of net advances.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Movement of NPAs (Gross)",
+    "metrics_provided": [
+      "152,726",
+      "196,584",
+      "201,107",
+      "148,203"
+    ],
+    "content_summary": "Disclosure of gross NPAs movement, including opening balance, additions, reductions, and closing balance.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Movement of Specific & General Provision \u2013 Position as on 31st March 2025",
+    "metrics_provided": [
+      "119,054",
+      "55,247",
+      "122,650",
+      "492",
+      "131,826",
+      "55,740"
+    ],
+    "content_summary": "Disclosure of specific and general provisions, including opening balance, provision made, write-offs/write-back, and closing balance.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Closing Balance",
+    "metrics_provided": [
+      "109,878",
+      "55,740"
+    ],
+    "content_summary": "Closing balance of the bank as on 31st March 2025",
+    "frequency_reported": "annually"
+  },
+  {
+    "section_title": "Movement of provision for depreciation on investments",
+    "metrics_provided": [
+      "5,089",
+      "0",
+      "2,346",
+      "7,435"
+    ],
+    "content_summary": "Disclosure of provision for depreciation on investments",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Breakup of NPA by major industries",
+    "metrics_provided": [
+      "Gross NPA",
+      "Specific Provision"
+    ],
+    "content_summary": "Disclosure of non-performing assets (NPAs) by major industries",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Specific Provisions",
+    "metrics_provided": [
+      "78",
+      "1,492"
+    ],
+    "content_summary": "Breakup of specific provisions and write-offs by industry",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Geography-wise Distribution of NPA and Provision",
+    "metrics_provided": [
+      "1,41,653",
+      "1,03,390",
+      "51,355",
+      "6,550",
+      "6,488",
+      "4,385"
+    ],
+    "content_summary": "Distribution of gross NPA and provision by geography",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Capital Adequacy",
+    "metrics_provided": [
+      "1,41,653",
+      "1,03,390",
+      "51,355",
+      "6,550",
+      "6,488",
+      "4,385",
+      "1,48,203",
+      "1,09,878",
+      "55,740"
+    ],
+    "content_summary": "Disclosure of capital adequacy metrics",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Credit Risk: Use of Rating Agency under the Standardised Approach",
+    "metrics_provided": [],
+    "content_summary": "Disclosure of the bank's use of rating agencies for credit risk assessment",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Risk Weighted Assets",
+    "metrics_provided": [
+      "150% risk weight"
+    ],
+    "content_summary": "Disclosure of risk weight assigned to certain exposures",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "CREDIT RISK MITIGATION",
+    "metrics_provided": [],
+    "content_summary": "The Bank uses various collaterals, guarantees, and credit risk mitigation techniques.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Details of Total Exposure",
+    "metrics_provided": [
+      "\u20b9 6,28,871",
+      "\u20b9 1,76,767"
+    ],
+    "content_summary": "Disclosure of total exposure covered by eligible financial collateral",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "A. Banking Book",
+    "metrics_provided": [],
+    "content_summary": "Disclosure of securitization activities and exposures",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Securitisation",
+    "metrics_provided": [
+      "Total amount of exposures securitised",
+      "Losses recognised by the Bank during the current period",
+      "Amount of assets intended to be securitised within a year",
+      "Amount of exposures securitised",
+      "Unrecognised gain or losses on sale"
+    ],
+    "content_summary": "Disclosure of securitisation activities by the bank",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Aggregate amount of Securitisation Exposures Retained or Purchased",
+    "metrics_provided": [
+      "42,286"
+    ],
+    "content_summary": "Disclosure of securitisation exposures retained or purchased by Axis Bank",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Capital Adequacy",
+    "metrics_provided": [
+      "42,286",
+      "42,286"
+    ],
+    "content_summary": "Disclosure of capital charge and risk weights",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Aggregate amount of Securitisation Exposures Retained or Purchased",
+    "metrics_provided": [],
+    "content_summary": "Disclosure of securitisation exposures retained or purchased by the bank",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Risk-weight wise Bucket Details of the Securitisation Exposures on the Basis of Book-Value",
+    "metrics_provided": [],
+    "content_summary": "Disclosure of securitisation exposures by risk weight",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Market Risk Management",
+    "metrics_provided": [],
+    "content_summary": "The Bank adopts a comprehensive approach to market risk management for its trading, investment, and asset/liability portfolios.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Market Risks",
+    "metrics_provided": [
+      "VaR",
+      "Stress tests",
+      "Back tests",
+      "Scenario analysis"
+    ],
+    "content_summary": "Disclosure of market risk management practices and metrics",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Risk Management",
+    "metrics_provided": [
+      "VaR"
+    ],
+    "content_summary": "Disclosure of the Bank's risk management approach and VaR calculation methodology",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Market Risk",
+    "metrics_provided": [],
+    "content_summary": "The Bank undertakes stress tests for market risks for its trading book, IRS, forex open position and forex gaps on a monthly basis.",
+    "frequency_reported": "monthly"
+  },
+  {
+    "section_title": "Concentration Risk",
+    "metrics_provided": [],
+    "content_summary": "The Bank has allocated the internal risk limits in order to avoid concentrations, wherever relevant.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Liquidity Risk",
+    "metrics_provided": [],
+    "content_summary": "Description of liquidity risk and its dimensions",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Liquidity Risk Management",
+    "metrics_provided": [],
+    "content_summary": "The goal of Liquidity Risk Management is to meet all commitments on the due date and also be able to fund new investment opportunities by raising sufficient funds in the form of increasing fresh liabilities or by expeditious asset sell-off without incurring unacceptable losses, both under normal and adverse conditions.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Liquidity Policy",
+    "metrics_provided": [],
+    "content_summary": "The Bank's liquidity profile is analyzed on a static and dynamic basis to manage risk.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Liquidity Risk Management",
+    "metrics_provided": [],
+    "content_summary": "The Bank's ability to meet its obligations and fund itself in a crisis scenario is critical and accordingly, liquidity stress tests are conducted under different scenarios at periodical intervals to assess the impact on liquidity to withstand stressed conditions.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Counterparty Risk",
+    "metrics_provided": [],
+    "content_summary": "The Bank has a Counterparty Risk Management Policy incorporating well laid-down guidelines, processes and measures for counterparty risk management.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Country Risk",
+    "metrics_provided": [],
+    "content_summary": "The Bank has a country risk management policy containing guidelines, systems, and processes to manage country risk.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Country Risk Management",
+    "metrics_provided": [],
+    "content_summary": "The Bank has a country risk management policy containing guidelines, systems, and processes to identify, assess, monitor, and control its country risk exposures.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Risk Management Framework for Overseas Operations",
+    "metrics_provided": [],
+    "content_summary": "The Bank has put in place separate risk management policies for each of its overseas branches.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Capital Requirement for Market Risk",
+    "metrics_provided": [
+      "41,160",
+      "4,586",
+      "19,844"
+    ],
+    "content_summary": "Disclosure of capital requirements for market risk",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Operational Risk",
+    "metrics_provided": [],
+    "content_summary": "Disclosure of the Bank's operational risk management policy and framework.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Structure and Organisation",
+    "metrics_provided": [],
+    "content_summary": "Description of the Bank's organizational structure and risk management committees.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Scope and Nature of Operational Risk Reporting and Measurement Systems",
+    "metrics_provided": [],
+    "content_summary": "The bank has developed and implemented a systematic process for reporting operational risks, losses, and non-compliance issues, and uses this information to develop triggers for corrective actions.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Policies for Hedging and Mitigating Operational risk",
+    "metrics_provided": [],
+    "content_summary": "The Bank's Operational Risk Management Policy and internal controls to manage and monitor operational risk.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Monitoring of Key Operational Risks",
+    "metrics_provided": [
+      "KRIs for branches"
+    ],
+    "content_summary": "Launch of KRIs for branches to manage operational risk better",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Approach for Operational Risk Capital Assessment",
+    "metrics_provided": [
+      "Basic Indicator Approach"
+    ],
+    "content_summary": "The Bank has followed the Basic Indicator Approach for computing the capital for operational risk.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "IX. Interest Rate Risk in the Banking Book (IRRBB)",
+    "metrics_provided": [],
+    "content_summary": "No metrics provided in this section.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Interest Rate Risk in the Banking Book (IRRBB)",
+    "metrics_provided": [],
+    "content_summary": "The Bank measures and controls interest risk in the banking book using Earnings at Risk (EaR) and Market Value of its Equity (MVE).",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Interest Rate Sensitivity",
+    "metrics_provided": [
+      "100 bps parallel shift in interest rates",
+      "200 bps parallel shift in interest rates"
+    ],
+    "content_summary": "Disclosure of internal interest rate risk limits and review process",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "IRRBB",
+    "metrics_provided": [
+      "INR 70,061",
+      "USD 4133",
+      "Residual 146"
+    ],
+    "content_summary": "Disclosure of IRRBB measures and their impact on earnings and economic value.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Economic Value Perspective",
+    "metrics_provided": [
+      "INR 34,319",
+      "USD 95",
+      "1315"
+    ],
+    "content_summary": "Disclosure of interest rate risk in banking book",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Credit Risk Policy or Investment Policy",
+    "metrics_provided": [],
+    "content_summary": "The Bank reviews counterparty exposure limits at periodic intervals.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Methodology used to assign economic capital and credit limits for counterparty credit exposures",
+    "metrics_provided": [
+      "economic capital requirement"
+    ],
+    "content_summary": "The Bank assesses economic capital requirement within the framework of Individual Capital Adequacy Assessment Process (ICAAP).",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Policies for securing collateral and establishing credit reserves",
+    "metrics_provided": [],
+    "content_summary": "The Bank has a policy framework for credit risk mitigants and management.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Management Policy",
+    "metrics_provided": [],
+    "content_summary": "Disclosure of the Bank's management policy for credit risk mitigation and NPA management",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Wrong Way Risk",
+    "metrics_provided": [],
+    "content_summary": "Disclosure on wrong way risk associated with counterparty credit exposures",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Impact of the amount of collateral the Bank would have to provide given a credit rating downgrade",
+    "metrics_provided": [],
+    "content_summary": "The Bank's assessment of the liquidity impact and related costs of a possible downgrade",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Amendments to Prudential Guidelines",
+    "metrics_provided": [
+      "1,59,218",
+      "16,257",
+      "6,35,418",
+      "41,812"
+    ],
+    "content_summary": "Disclosure of derivative exposures using Current Exposure Method",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Composition of Capital",
+    "metrics_provided": [
+      "Common Equity Tier 1 capital: instruments and reserves",
+      "Common Equity Tier 1 capital before regulatory adjustments",
+      "Common Equity Tier 1 capital: regulatory adjustments"
+    ],
+    "content_summary": "Disclosure of the composition of the bank's capital, including Common Equity Tier 1 (CET1) capital and regulatory adjustments.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Cash-flow hedge reserve",
+    "metrics_provided": [],
+    "content_summary": "Disclosure of cash-flow hedge reserve",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Shortfall of provisions to expected losses",
+    "metrics_provided": [],
+    "content_summary": "Disclosure of shortfall of provisions to expected losses",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Securitisation gain on sale",
+    "metrics_provided": [],
+    "content_summary": "Disclosure of securitisation gain on sale",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Gains and losses due to changes in own credit risk on fair valued liabilities",
+    "metrics_provided": [],
+    "content_summary": "Disclosure of gains and losses due to changes in own credit risk on fair valued liabilities",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Defined-benefit pension fund net assets",
+    "metrics_provided": [],
+    "content_summary": "Disclosure of defined-benefit pension fund net assets",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Investments in own shares (if not already netted off paid-in capital on reported balance sheet)",
+    "metrics_provided": [],
+    "content_summary": "Disclosure of investments in own shares",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Reciprocal cross-holdings in common equity",
+    "metrics_provided": [
+      "32"
+    ],
+    "content_summary": "Disclosure of reciprocal cross-holdings in common equity",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Investments in the capital of banking, financial and insurance entities that are outside the scope of regulatory consolidation, net of eligible short positions, where the bank does not own more than 10% of the issued common share capital (amount above 10% threshold)",
+    "metrics_provided": [],
+    "content_summary": "Disclosure of investments in the capital of banking, financial and insurance entities",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Significant investments in the common stock of banking, financial and insurance entities that are outside the scope of regulatory consolidation, net of eligible short positions (amount above 10% threshold)",
+    "metrics_provided": [],
+    "content_summary": "Disclosure of significant investments in the common stock of banking, financial and insurance entities",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Mortgage servicing rights (amount above 10% threshold)",
+    "metrics_provided": [],
+    "content_summary": "Disclosure of mortgage servicing rights",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Mortgage Servicing Rights",
+    "metrics_provided": [
+      "amount above 10% threshold"
+    ],
+    "content_summary": "Disclosure of mortgage servicing rights exceeding 10% threshold",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Deferred Tax Assets",
+    "metrics_provided": [
+      "amount above 10% threshold, net of related tax liability"
+    ],
+    "content_summary": "Disclosure of deferred tax assets exceeding 10% threshold, net of related tax liability",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "National Specific Regulatory Adjustments",
+    "metrics_provided": [
+      "Investments in the equity capital of unconsolidated insurance subsidiaries",
+      "Investments in the equity capital of unconsolidated non-financial subsidiaries",
+      "Shortfall in the equity capital of majority owned financial entities which have not been consolidated with the bank",
+      "Unamortized pension funds expenditures"
+    ],
+    "content_summary": "Disclosure of national specific regulatory adjustments",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Regulatory Adjustments",
+    "metrics_provided": [
+      "Regulatory adjustments applied to Common Equity Tier 1 due to insufficient Additional Tier 1 and Tier 2 to cover deductions"
+    ],
+    "content_summary": "Disclosure of regulatory adjustments applied to Common Equity Tier 1",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Additional Tier 1 and Tier 2 to cover deductions",
+    "metrics_provided": [
+      "36,684"
+    ],
+    "content_summary": "Regulatory adjustments to Common equity Tier 1",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Common Equity Tier 1 capital (CET 1)",
+    "metrics_provided": [
+      "17,87,150"
+    ],
+    "content_summary": "Common Equity Tier 1 capital",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Additional Tier 1 capital: instruments",
+    "metrics_provided": [
+      "51,285"
+    ],
+    "content_summary": "Additional Tier 1 capital instruments",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Additional Tier 1 Capital",
+    "metrics_provided": [
+      "51,285"
+    ],
+    "content_summary": "Disclosure of Additional Tier 1 capital before regulatory adjustments and regulatory adjustments.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Investments in Own Additional Tier 1 Instruments",
+    "metrics_provided": [
+      "5,373"
+    ],
+    "content_summary": "Disclosure of investments in own Additional Tier 1 instruments.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Capital Adequacy",
+    "metrics_provided": [
+      "45,912",
+      "18,33,062"
+    ],
+    "content_summary": "Disclosure of Additional Tier 1 capital and Tier 1 capital",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Tier 2 Capital",
+    "metrics_provided": [
+      "2,33,290",
+      "84,830"
+    ],
+    "content_summary": "Disclosure of Tier 2 capital and provisions.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Investments in Own Tier 2 Instruments",
+    "metrics_provided": [
+      "200"
+    ],
+    "content_summary": "Disclosure of investments in own Tier 2 instruments.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Significant Investments in Capital of Banking, Financial and Insurance Entities",
+    "metrics_provided": [],
+    "content_summary": "Disclosure of significant investments in capital of banking, financial and insurance entities.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Capital Adequacy",
+    "metrics_provided": [
+      "Tier 2 capital",
+      "Total capital",
+      "Total risk weighted assets"
+    ],
+    "content_summary": "Disclosure of capital adequacy metrics",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Capital ratios and buffers",
+    "metrics_provided": [
+      "Common Equity Tier 1 (as a percentage of risk weighted assets)",
+      "Tier 1 (as a percentage of risk weighted assets)",
+      "Total capital (as a percentage of risk weighted assets)",
+      "Institution specific buffer requirement"
+    ],
+    "content_summary": "Disclosure of capital ratios and buffers as required by Basel III",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Common Equity Tier 1 (CET1) Ratio",
+    "metrics_provided": [
+      "7.98%"
+    ],
+    "content_summary": "Disclosure of CET1 ratio available to meet buffers as a percentage of risk-weighted assets.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "National Minimum Ratios",
+    "metrics_provided": [
+      "5.50%",
+      "7.00%",
+      "9.00%"
+    ],
+    "content_summary": "Disclosure of national minimum ratios for CET1, Tier 1, and total capital.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Provisions eligible for inclusion in Tier 2",
+    "metrics_provided": [
+      "55,740",
+      "1,30,238"
+    ],
+    "content_summary": "Disclosure of provisions eligible for inclusion in Tier 2 under standardised and internal ratings-based approaches.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Capital Adequacy",
+    "metrics_provided": [
+      "83",
+      "84",
+      "85"
+    ],
+    "content_summary": "Disclosure of amounts excluded from Additional Tier 1 (AT1) and Tier 2 (T2) instruments due to caps.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "26b",
+    "metrics_provided": [
+      "Increase in Common Equity Tier 1 capital",
+      "Increase in risk weighted assets"
+    ],
+    "content_summary": "Disclosure of the impact of not deducting and risk-weighting investments in the equity capital of unconsolidated non-financial subsidiaries.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "50",
+    "metrics_provided": [
+      "Eligible Provisions included in Tier 2 capital",
+      "Eligible Reserves included in Tier 2 capital",
+      "Total of row 50"
+    ],
+    "content_summary": "Disclosure of eligible provisions and reserves included in Tier 2 capital.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "THE RECONCILIATION OF REGULATORY CAPITAL ITEMS",
+    "metrics_provided": [
+      "Total Capital",
+      "Paid-up Capital",
+      "Reserves & Surplus",
+      "Employees' Stock Options Outstanding (net)",
+      "Minority Interest"
+    ],
+    "content_summary": "Reconciliation of regulatory capital items as per Basel III",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Borrowings",
+    "metrics_provided": [
+      "22,06,867",
+      "22,06,867"
+    ],
+    "content_summary": "Disclosure of borrowings from various sources",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Assets",
+    "metrics_provided": [
+      "7,36,384",
+      "7,36,384",
+      "2,90,603",
+      "2,90,603"
+    ],
+    "content_summary": "Disclosure of cash and balances with Reserve Bank of India and balances with banks",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Investments",
+    "metrics_provided": [
+      "39,66,851",
+      "39,50,883"
+    ],
+    "content_summary": "Disclosure of investments in government securities and shares",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Capital Adequacy",
+    "metrics_provided": [],
+    "content_summary": "No specific Basel III metrics provided in this section.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "A Capital and Liabilities",
+    "metrics_provided": [
+      "Paid-up Capital",
+      "Reserves & Surplus",
+      "Statutory Reserve",
+      "Share Premium",
+      "Investment Fluctutation Reserve (IFR)",
+      "Investment Reserve (IR)",
+      "General Reserve",
+      "Capital Reserve"
+    ],
+    "content_summary": "Disclosure of the bank's capital and liabilities, including the composition of reserves and surplus.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Total Capital",
+    "metrics_provided": [
+      "18,78,706",
+      "18,75,609"
+    ],
+    "content_summary": "Disclosure of total capital",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Capital Instruments",
+    "metrics_provided": [
+      "2,78,585",
+      "1,99,745"
+    ],
+    "content_summary": "Disclosure of capital instruments",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Provision for Unhedged Foreign Currency Exposure",
+    "metrics_provided": [
+      "3,566",
+      "3,566"
+    ],
+    "content_summary": "Disclosure of provision for unhedged foreign currency exposure",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Total Assets",
+    "metrics_provided": [
+      "1,65,69,626",
+      "1,65,69,626"
+    ],
+    "content_summary": "Total assets of Axis Bank",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Main Features of Regulatory Capital",
+    "metrics_provided": [
+      "\u20b96,195 million"
+    ],
+    "content_summary": "Disclosure of equity capital features",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Position in subordination hierarchy in liquidation",
+    "metrics_provided": [
+      "Perpetual Debt Instruments"
+    ],
+    "content_summary": "Disclosure of the bank's position in the subordination hierarchy in liquidation",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Regulatory Capital",
+    "metrics_provided": [
+      "USD 600 Mn"
+    ],
+    "content_summary": "Disclosure of regulatory capital for perpetual debt instrument",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "4.10% AT1 notes of USD 600 millions",
+    "metrics_provided": [
+      "4.10% p.a.",
+      "5 year U.S. Treasury Rate"
+    ],
+    "content_summary": "Disclosure of the terms and conditions of the 4.10% AT1 notes of USD 600 millions",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Write-down feature",
+    "metrics_provided": [],
+    "content_summary": "Disclosure of write-down feature and trigger events",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Tier 1 Ratio",
+    "metrics_provided": [
+      "4.10% AT1 notes of USD 600 millions",
+      "CET1 Trigger Event Threshold"
+    ],
+    "content_summary": "Disclosure of Tier 1 Ratio and CET1 Trigger Event Threshold",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Position in subordination hierarchy in liquidation",
+    "metrics_provided": [],
+    "content_summary": "Disclosing the position of the instrument in the subordination hierarchy in liquidation",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Ranking of Claims",
+    "metrics_provided": [],
+    "content_summary": "Disclosure of the ranking of claims in the event of liquidation or winding up of the Issuer.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Capital Adequacy",
+    "metrics_provided": [],
+    "content_summary": "Disclosure of AT1 notes and subordinated debt",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Subordinated debt capital instruments",
+    "metrics_provided": [
+      "\u20b94,860",
+      "\u20b93,600",
+      "\u20b920,000",
+      "\u20b9120,000"
+    ],
+    "content_summary": "Disclosure of subordinated debt capital instruments issued by Axis Bank Ltd.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Accounting Classification",
+    "metrics_provided": [
+      "Liability"
+    ],
+    "content_summary": "Accounting classification of debentures",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Interest Rates",
+    "metrics_provided": [
+      "8.5% p.a.",
+      "8.50% p.a.",
+      "7.84% p.a.",
+      "7.66% p.a.",
+      "7.88% p.a."
+    ],
+    "content_summary": "Interest rates payable annually",
+    "frequency_reported": "annually"
+  },
+  {
+    "section_title": "Write-down feature",
+    "metrics_provided": [],
+    "content_summary": "Disclosure of write-down feature and trigger(s) for Axis Bank.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Capital Adequacy",
+    "metrics_provided": [],
+    "content_summary": "Disclosure of the claims of debenture holders and their ranking in relation to other stakeholders.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "FULL TERMS & CONDITIONS OF REGULATORY CAPITAL INSTRUMENTS",
+    "metrics_provided": [],
+    "content_summary": "Disclosure of full terms and conditions of regulatory capital instruments.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "EQUITIES \u2013 DISCLOSURE FOR BANKING BOOK POSITIONS",
+    "metrics_provided": [],
+    "content_summary": "Disclosure of equity portfolio risk oversight and classification.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Investment Classification",
+    "metrics_provided": [],
+    "content_summary": "The Bank classifies its investments into different categories, including Held to Maturity (HTM), Available for Sale (AFS), and Fair Value through Profit and Loss (FVTPL) - Held for Trading (HFT) and Non-Held for Trading (Non HFT).",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Investments in Subsidiaries, Associates and Joint Ventures",
+    "metrics_provided": [],
+    "content_summary": "Disclosure on the categorization and accounting of investments in subsidiaries, associates, and joint ventures",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Reserve",
+    "metrics_provided": [
+      "\u20b9 12,355 millions",
+      "\u20b9 14,724 millions",
+      "\u20b9 849 millions",
+      "\u20b9 2,370 millions",
+      "\u20b9 NIL",
+      "\u20b9 885 millions",
+      "\u20b9 1,957 millions"
+    ],
+    "content_summary": "Disclosure of equity investments under banking book, including book value, fair value, and unrealized gains.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "XVI. COMPARISION OF ACCOUNTING ASSETS AND LEVERAGE RATIO EXPOSURE MEASURE",
+    "metrics_provided": [
+      "Total consolidated assets",
+      "Adjustments for investments",
+      "Adjustments for fiduciary assets",
+      "Adjustments for derivative financial instruments",
+      "Adjustments for securities financing transactions",
+      "Adjustments for off-balance sheet items",
+      "Other adjustments"
+    ],
+    "content_summary": "Disclosure of adjustments made to total consolidated assets for leverage ratio exposure measure",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Leverage Ratio",
+    "metrics_provided": [
+      "1,94,54,644"
+    ],
+    "content_summary": "Disclosure of leverage ratio exposure",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Leverage Ratio",
+    "metrics_provided": [
+      "1,62,95,354",
+      "1,75,475",
+      "5,01,755"
+    ],
+    "content_summary": "Disclosure of leverage ratio framework and related metrics",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Derivatives",
+    "metrics_provided": [
+      "6,77,230"
+    ],
+    "content_summary": "Total derivative exposures",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Securities Financing Transaction Exposures",
+    "metrics_provided": [
+      "46,491"
+    ],
+    "content_summary": "Total securities financing transaction exposures",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Other Off-Balance Sheet Exposures",
+    "metrics_provided": [
+      "75,53,093"
+    ],
+    "content_summary": "Off-balance sheet exposure at gross notional amount",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Off-balance sheet exposure",
+    "metrics_provided": [
+      "75,53,093",
+      "-51,17,523"
+    ],
+    "content_summary": "Disclosure of off-balance sheet exposure at gross notional amount and adjustments for conversion to credit equivalent amounts.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Capital and total exposures",
+    "metrics_provided": [
+      "18,33,062",
+      "1,94,54,644"
+    ],
+    "content_summary": "Disclosure of Tier I capital and total exposures.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "Leverage Ratio",
+    "metrics_provided": [
+      "9.42%",
+      "9.61%",
+      "9.39%",
+      "9.24%"
+    ],
+    "content_summary": "Disclosure of Basel III leverage ratio and its components.",
+    "frequency_reported": "unspecified"
+  },
+  {
+    "section_title": "On-balance sheet items",
+    "metrics_provided": [
+      "1,63,19,619"
+    ],
+    "content_summary": "Disclosure of on-balance sheet items, excluding derivatives and SFTs, but including collateral.",
+    "frequency_reported": "unspecified"
+  }
+]

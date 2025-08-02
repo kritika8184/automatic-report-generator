@@ -1,0 +1,600 @@
+[
+  {
+    "requirement_title": "The Basel Framework",
+    "description": "The full set of standards of the Basel Committee on Banking Supervision",
+    "category": "Other",
+    "frequency": "N/A",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Capital Requirements",
+    "description": "The requirement entails the disclosure of capital requirements and capital adequacy ratios.",
+    "category": "Capital",
+    "frequency": "annually",
+    "data_required": [
+      "Capital requirements",
+      "Capital adequacy ratios"
+    ]
+  },
+  {
+    "requirement_title": "SCO Scope and definitions",
+    "description": "Scope and definitions for Basel III",
+    "category": "Other",
+    "frequency": "N/A",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Introduction",
+    "description": "Introduction to Basel III",
+    "category": "Other",
+    "frequency": "N/A",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Banking, securities and other financial subsidiaries",
+    "description": "Disclosure requirements for banking, securities, and other financial subsidiaries",
+    "category": "Other",
+    "frequency": "N/A",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Global systemically important banks",
+    "description": "Disclosure requirements for global systemically important banks",
+    "category": "Other",
+    "frequency": "N/A",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Domestic systemically important banks",
+    "description": "Disclosure requirements for domestic systemically important banks",
+    "category": "Other",
+    "frequency": "N/A",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Glossary and abbreviations",
+    "description": "Glossary and abbreviations for Basel III",
+    "category": "Other",
+    "frequency": "N/A",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Definition of capital",
+    "description": "Definition of capital for Basel III",
+    "category": "Capital",
+    "frequency": "N/A",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Definition of eligible capital",
+    "description": "Definition of eligible capital for Basel III",
+    "category": "Capital",
+    "frequency": "N/A",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Regulatory adjustments",
+    "description": "Regulatory adjustments for Basel III",
+    "category": "Capital",
+    "frequency": "N/A",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Prudent valuation guidance",
+    "description": "Prudent valuation guidance for Basel III",
+    "category": "Capital",
+    "frequency": "N/A",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Transitional arrangements",
+    "description": "Transitional arrangements for Basel III",
+    "category": "Capital",
+    "frequency": "N/A",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Application guidance",
+    "description": "Application guidance for Basel III",
+    "category": "Capital",
+    "frequency": "N/A",
+    "data_required": []
+  },
+  {
+    "requirement_title": "CAP99 Application guidance",
+    "description": "Guidance on applying Basel III capital requirements",
+    "category": "Capital",
+    "frequency": "N/A",
+    "data_required": []
+  },
+  {
+    "requirement_title": "RBC Risk-based capital requirements",
+    "description": "Regulatory minimum risk-based capital requirements",
+    "category": "Capital",
+    "frequency": "N/A",
+    "data_required": []
+  },
+  {
+    "requirement_title": "RBC20 Calculation of minimum risk-based capital requirements",
+    "description": "Calculation of minimum risk-based capital requirements",
+    "category": "Capital",
+    "frequency": "N/A",
+    "data_required": []
+  },
+  {
+    "requirement_title": "RBC25 Boundary between the banking book and the trading book",
+    "description": "Boundary between banking book and trading book",
+    "category": "Capital",
+    "frequency": "N/A",
+    "data_required": []
+  },
+  {
+    "requirement_title": "RBC30 Buffers above the regulatory minimum",
+    "description": "Buffers above regulatory minimum",
+    "category": "Capital",
+    "frequency": "N/A",
+    "data_required": []
+  },
+  {
+    "requirement_title": "RBC40 Systemically important bank buffers",
+    "description": "Systemically important bank buffers",
+    "category": "Capital",
+    "frequency": "N/A",
+    "data_required": []
+  },
+  {
+    "requirement_title": "RBC90 Transitional arrangements",
+    "description": "Transitional arrangements for Basel III implementation",
+    "category": "Capital",
+    "frequency": "N/A",
+    "data_required": []
+  },
+  {
+    "requirement_title": "CRE Calculation of RWA for credit risk",
+    "description": "Calculation of risk-weighted assets for credit risk",
+    "category": "Credit Risk",
+    "frequency": "N/A",
+    "data_required": []
+  },
+  {
+    "requirement_title": "CRE20 Standardised approach: individual exposures",
+    "description": "Standardised approach for individual exposures",
+    "category": "Credit Risk",
+    "frequency": "N/A",
+    "data_required": []
+  },
+  {
+    "requirement_title": "CRE21 Standardised approach: use of external ratings",
+    "description": "Use of external ratings in standardised approach",
+    "category": "Credit Risk",
+    "frequency": "N/A",
+    "data_required": []
+  },
+  {
+    "requirement_title": "CRE22 Standardised approach: credit risk mitigation",
+    "description": "Credit risk mitigation in standardised approach",
+    "category": "Credit Risk",
+    "frequency": "N/A",
+    "data_required": []
+  },
+  {
+    "requirement_title": "CRE30 IRB approach: overview and asset class definitions",
+    "description": "Overview and asset class definitions for internal ratings-based approach",
+    "category": "Credit Risk",
+    "frequency": "N/A",
+    "data_required": []
+  },
+  {
+    "requirement_title": "CRE31 IRB approach: risk weight functions",
+    "description": "Risk weight functions for internal ratings-based approach",
+    "category": "Credit Risk",
+    "frequency": "N/A",
+    "data_required": []
+  },
+  {
+    "requirement_title": "CRE32 IRB approach: risk components",
+    "description": "Risk components for internal ratings-based approach",
+    "category": "Credit Risk",
+    "frequency": "N/A",
+    "data_required": []
+  },
+  {
+    "requirement_title": "CRE32 IRB approach: risk components",
+    "description": "Risk components for the IRB approach",
+    "category": "Risk-Weighted-Assets",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "CRE33 IRB approach: supervisory slotting approach for specialised lending",
+    "description": "Supervisory slotting approach for specialised lending in the IRB approach",
+    "category": "Risk-Weighted-Assets",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "CRE34 IRB approach: RWA for purchased receivables",
+    "description": "Risk-weighted assets for purchased receivables in the IRB approach",
+    "category": "Risk-Weighted-Assets",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "CRE35 IRB approach: treatment of expected losses and provisions",
+    "description": "Treatment of expected losses and provisions in the IRB approach",
+    "category": "Risk-Weighted-Assets",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "CRE36 IRB approach: minimum requirements to use IRB approach",
+    "description": "Minimum requirements to use the IRB approach",
+    "category": "Risk-Weighted-Assets",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "CRE40 Securitisation: general provisions",
+    "description": "General provisions for securitisation",
+    "category": "Credit Risk",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "CRE41 Securitisation: standardised approach",
+    "description": "Standardised approach for securitisation",
+    "category": "Credit Risk",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "CRE42 Securitisation: External-ratings-based approach (SEC-ERBA)",
+    "description": "External-ratings-based approach for securitisation",
+    "category": "Credit Risk",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "CRE43 Securitisation: Internal assessment approach (SEC-IAA)",
+    "description": "Internal assessment approach for securitisation",
+    "category": "Credit Risk",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "CRE44 Securitisation: Internal-ratings-based approach",
+    "description": "Internal-ratings-based approach for securitisation",
+    "category": "Credit Risk",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "CRE45 Securitisations of non-performing loans",
+    "description": "Securitisations of non-performing loans",
+    "category": "Credit Risk",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "CRE50 Counterparty credit risk definitions and terminology",
+    "description": "Definitions and terminology for counterparty credit risk",
+    "category": "Credit Risk",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "CRE51 Counterparty credit risk overview",
+    "description": "Overview of counterparty credit risk",
+    "category": "Credit Risk",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "CRE52 Standardised approach to counterparty credit risk",
+    "description": "Standardised approach for counterparty credit risk",
+    "category": "Credit Risk",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "CRE53 Internal models method for counterparty credit risk",
+    "description": "Internal models method for counterparty credit risk",
+    "category": "Credit Risk",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "CRE54 Capital requirements for bank exposures to central counterparties",
+    "description": "Capital requirements for bank exposures to central counterparties",
+    "category": "Capital",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Internal models method for counterparty credit risk",
+    "description": "Description of the internal models method for counterparty credit risk",
+    "category": "Credit Risk",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Capital requirements for bank exposures to central counterparties",
+    "description": "Description of the capital requirements for bank exposures to central counterparties",
+    "category": "Capital",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Counterparty credit risk in the trading book",
+    "description": "Disclosure of counterparty credit risk in the trading book",
+    "category": "Credit Risk",
+    "frequency": "annually",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Minimum haircut floors for securities financing transactions",
+    "description": "Disclosure of minimum haircut floors for securities financing transactions",
+    "category": "Credit Risk",
+    "frequency": "annually",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Equity investments in funds",
+    "description": "Disclosure of equity investments in funds",
+    "category": "Other",
+    "frequency": "annually",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Capital treatment of unsettled transactions and failed trades",
+    "description": "Disclosure of capital treatment of unsettled transactions and failed trades",
+    "category": "Capital",
+    "frequency": "annually",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Transition",
+    "description": "Disclosure of transition requirements",
+    "category": "Other",
+    "frequency": "annually",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Application guidance",
+    "description": "Disclosure of application guidance",
+    "category": "Other",
+    "frequency": "annually",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Calculation of RWA for market risk",
+    "description": "Disclosure of calculation of RWA for market risk",
+    "category": "Risk-Weighted-Assets",
+    "frequency": "annually",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Standardised approach: default risk capital requirement",
+    "description": "Calculates the default risk capital requirement using the standardised approach",
+    "category": "Capital",
+    "frequency": "annually",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Standardised approach: residual risk add-on",
+    "description": "Calculates the residual risk add-on using the standardised approach",
+    "category": "Capital",
+    "frequency": "annually",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Internal models approach: general provisions",
+    "description": "Provides general provisions for using the internal models approach",
+    "category": "Capital",
+    "frequency": "annually",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Internal models approach: model requirements",
+    "description": "Outlines the requirements for using the internal models approach",
+    "category": "Capital",
+    "frequency": "annually",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Internal models approach: backtesting and P&L attribution test requirements",
+    "description": "Outlines the requirements for backtesting and P&L attribution testing for the internal models approach",
+    "category": "Capital",
+    "frequency": "annually",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Internal models approach: capital requirements calculation",
+    "description": "Calculates the capital requirements using the internal models approach",
+    "category": "Capital",
+    "frequency": "annually",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Simplified standardised approach",
+    "description": "Provides a simplified standardised approach for calculating capital requirements",
+    "category": "Capital",
+    "frequency": "annually",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Credit valuation adjustment framework",
+    "description": "Outlines the framework for calculating credit valuation adjustments",
+    "category": "Credit Risk",
+    "frequency": "annually",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Transitional arrangements",
+    "description": "Provides transitional arrangements for implementing Basel III",
+    "category": "Other",
+    "frequency": "annually",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Guidance on use of the internal models approach",
+    "description": "Provides guidance on using the internal models approach",
+    "category": "Capital",
+    "frequency": "annually",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Calculation of RWA for operational risk",
+    "description": "Calculates the risk-weighted assets for operational risk",
+    "category": "Operational Risk",
+    "frequency": "annually",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Definitions and application",
+    "description": "Provides definitions and application guidance for operational risk",
+    "category": "Operational Risk",
+    "frequency": "annually",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Standardised approach",
+    "description": "Provides a standardised approach for calculating operational risk",
+    "category": "Operational Risk",
+    "frequency": "annually",
+    "data_required": []
+  },
+  {
+    "requirement_title": "OPE25 Standardised approach",
+    "description": "Standardised approach",
+    "category": "Risk-Weighted-Assets",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "LEV Leverage ratio",
+    "description": "Leverage ratio",
+    "category": "Leverage",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "LEV10 Definitions and application",
+    "description": "Definitions and application of leverage ratio",
+    "category": "Leverage",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "LEV20 Calculation",
+    "description": "Calculation of leverage ratio",
+    "category": "Leverage",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "LEV30 Exposure measurement",
+    "description": "Exposure measurement for leverage ratio",
+    "category": "Leverage",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "LEV40 Leverage ratio requirements for global systemically important banks",
+    "description": "Leverage ratio requirements for global systemically important banks",
+    "category": "Leverage",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "LEV90 Transition",
+    "description": "Transition for leverage ratio",
+    "category": "Leverage",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "LCR Liquidity Coverage Ratio",
+    "description": "Liquidity Coverage Ratio",
+    "category": "Liquidity",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "LCR10 Definitions and application",
+    "description": "Definitions and application of Liquidity Coverage Ratio",
+    "category": "Liquidity",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "LCR20 Calculation",
+    "description": "Calculation of Liquidity Coverage Ratio",
+    "category": "Liquidity",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "LCR30 High-quality liquid assets",
+    "description": "High-quality liquid assets for Liquidity Coverage Ratio",
+    "category": "Liquidity",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "LCR31 Alternative liquidity approaches",
+    "description": "Alternative liquidity approaches for Liquidity Coverage Ratio",
+    "category": "Liquidity",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Alternative liquidity approaches",
+    "description": "Description of alternative liquidity approaches",
+    "category": "Liquidity",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Cash inflows and outflows",
+    "description": "Description of cash inflows and outflows",
+    "category": "Liquidity",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Transition",
+    "description": "Description of transition",
+    "category": "Liquidity",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Application guidance",
+    "description": "Description of application guidance",
+    "category": "Liquidity",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Net stable funding ratio",
+    "description": "Description of net stable funding ratio",
+    "category": "Liquidity",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Definitions and applications",
+    "description": "Description of definitions and applications",
+    "category": "Other",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Calculation and reporting",
+    "description": "Description of calculation and reporting",
+    "category": "Other",
+    "frequency": "",
+    "data_required": []
+  }
+]

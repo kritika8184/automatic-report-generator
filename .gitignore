@@ -1,0 +1,10 @@
+.env
+
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]

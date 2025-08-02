@@ -1,0 +1,1001 @@
+[
+  {
+    "requirement_title": "Interest Rate Risk in the Banking Book",
+    "description": "Disclose the bank's interest rate risk in the banking book",
+    "category": "Risk-Weighted-Assets",
+    "frequency": "Annually",
+    "data_required": [
+      "Description of the bank's interest rate risk management strategy",
+      "Summary of the bank's interest rate risk exposure",
+      "Details of the bank's interest rate risk mitigation techniques"
+    ]
+  },
+  {
+    "requirement_title": "Definition of Interest Rate Risk in the Banking Book",
+    "description": "Definition of interest rate risk in the banking book",
+    "category": "Risk-Weighted-Assets",
+    "frequency": "N/A",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Valuation of Banking Book Items",
+    "description": "Two methods for valuing banking book items: amortised cost and fair value.",
+    "category": "Risk-Weighted-Assets",
+    "frequency": "N/A",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Accounting Value vs. IRRBB",
+    "description": "The accounting value may not be the same as the balance that needs to be managed for IRRBB purposes.",
+    "category": "Credit Risk",
+    "frequency": "Not specified",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Fair Valued Instruments",
+    "description": "Accounting values of fair valued instruments can vary significantly from period to period.",
+    "category": "Market Risk",
+    "frequency": "Not specified",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Economic Value Measures",
+    "description": "The presence or absence of higher/lower accounting values for amortised cost instruments is effectively ignored.",
+    "category": "Credit Risk",
+    "frequency": "Not specified",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Treatment of economic value and accounting losses",
+    "description": "A loss in economic value does not automatically equate with accounting losses for certain elements of the banking book.",
+    "category": "Capital",
+    "frequency": "Not specified",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Impact of interest rate changes on fair value/mark-to-market assets",
+    "description": "Changes in interest rates directly affect current accounting values for assets held at fair value/mark-to-market.",
+    "category": "Market Risk",
+    "frequency": "Not specified",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Components of interest rates",
+    "description": "Interest rates contain five elements: risk-free rate, and four other components.",
+    "category": "Other",
+    "frequency": "Not specified",
+    "data_required": [
+      "Risk-free rate",
+      "Other components"
+    ]
+  },
+  {
+    "requirement_title": "Market Duration Spread",
+    "description": "To reflect the uncertainty of both cash flows and the prevailing interest rate environment, and consequent price volatility, the market requires a premium or spread over the risk-free rate to cover duration risk.",
+    "category": "Market Risk",
+    "frequency": "N/A",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Market Liquidity Spread",
+    "description": "Even if the underlying instrument were risk-free, the interest rate may contain a premium to represent the market appetite for investments and the presence of willing buyers and sellers.",
+    "category": "Market Risk",
+    "frequency": "N/A",
+    "data_required": []
+  },
+  {
+    "requirement_title": "General Market Credit Spread",
+    "description": "This is distinct from idiosyncratic credit spread, and represents the credit risk premium required by market participants for a given credit quality.",
+    "category": "Credit Risk",
+    "frequency": "N/A",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Idiosyncratic credit spread",
+    "description": "Reflects the specific credit risk associated with the credit quality of the individual borrower",
+    "category": "Credit Risk",
+    "frequency": "Not specified",
+    "data_required": [
+      "Credit quality of the individual borrower",
+      "Sector and geographical/currency location of the borrower",
+      "Specifics of the credit instrument"
+    ]
+  },
+  {
+    "requirement_title": "Risk-free alternative",
+    "description": "Reflects the risk-free rate",
+    "category": "Credit Risk",
+    "frequency": "Not specified",
+    "data_required": [
+      "Risk-free rate"
+    ]
+  },
+  {
+    "requirement_title": "Funding Margin Disclosure",
+    "description": "Disclose the funding margin applied to a benchmark rate",
+    "category": "Credit Risk",
+    "frequency": "Not specified",
+    "data_required": [
+      "Funding margin amount"
+    ]
+  },
+  {
+    "requirement_title": "Basis Risk Disclosure",
+    "description": "Disclose the relationship between the funding rate and market reference rate",
+    "category": "Credit Risk",
+    "frequency": "Not specified",
+    "data_required": [
+      "Description of basis risk"
+    ]
+  },
+  {
+    "requirement_title": "Disclosure of IRRBB components",
+    "description": "Disclosure of the components of interest rate risk in the banking book (IRRBB)",
+    "category": "Market Risk",
+    "frequency": "Not specified",
+    "data_required": [
+      "Changes to the risk-free rate",
+      "Market duration spread",
+      "Reference rate",
+      "Funding margin"
+    ]
+  },
+  {
+    "requirement_title": "Disclosure of CSRBB components",
+    "description": "Disclosure of the components of credit spread risk in the banking book (CSRBB)",
+    "category": "Credit Risk",
+    "frequency": "Not specified",
+    "data_required": [
+      "Changes to market liquidity spreads",
+      "Changes to market credit spreads"
+    ]
+  },
+  {
+    "requirement_title": "IRRBB Disclosure",
+    "description": "Disclosure of the impact of changes in market interest rates on a bank's income or underlying economic value.",
+    "category": "Market Risk",
+    "frequency": "Not specified",
+    "data_required": [
+      "Changes to yield curves",
+      "Impact on income or economic value"
+    ]
+  },
+  {
+    "requirement_title": "CSRBB Disclosure",
+    "description": "Disclosure of changes in market perception about the credit quality of credit-risky instruments.",
+    "category": "Credit Risk",
+    "frequency": "Not specified",
+    "data_required": [
+      "Changes to expected default levels",
+      "Changes to market liquidity",
+      "Impact on credit quality perceptions"
+    ]
+  },
+  {
+    "requirement_title": "Define CSRBB",
+    "description": "Define Credit Spread Risk-Adjusted Basis (CSRBB) as any kind of asset/liability spread risk of credit-risky instruments which is not explained by IRRBB, nor by the expected credit/jump-to-default risk.",
+    "category": "Risk-Weighted-Assets",
+    "frequency": "N/A",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Monitor and assess CSRBB",
+    "description": "Monitor and assess CSRBB as a related risk to IRRBB.",
+    "category": "Risk-Weighted-Assets",
+    "frequency": "N/A",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Manage IRRBB holistically",
+    "description": "Manage Interest Rate Risk in the Banking Book (IRRBB) holistically by considering three fundamental aspects relating to the level and structural characteristics of interest rates, and the effects on these of changes to yield curves.",
+    "category": "Risk-Weighted-Assets",
+    "frequency": "N/A",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Gap Risk Disclosure",
+    "description": "Disclosure of the bank's exposure to gap risk due to changes in interest rates.",
+    "category": "Market Risk",
+    "frequency": "Annually",
+    "data_required": [
+      "Description of the bank's gap risk exposure",
+      "Impact of gap risk on the bank's interest margin"
+    ]
+  },
+  {
+    "requirement_title": "Basis Risk Disclosure",
+    "description": "Disclosure of the bank's exposure to basis risk due to changes in interest rates.",
+    "category": "Market Risk",
+    "frequency": "Annually",
+    "data_required": [
+      "Description of the bank's basis risk exposure",
+      "Impact of basis risk on the bank's financial instruments"
+    ]
+  },
+  {
+    "requirement_title": "IRRBB Definition",
+    "description": "Define IRRBB excluding changes in idiosyncratic credit margins",
+    "category": "Risk-Weighted-Assets",
+    "frequency": "N/A",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Option Risk",
+    "description": "Disclose option risk arising from option derivative positions and embedded options",
+    "category": "Market Risk",
+    "frequency": "N/A",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Automatic Option Risk",
+    "description": "Disclose automatic option risk from standalone instruments and embedded options",
+    "category": "Market Risk",
+    "frequency": "N/A",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Behavioural Option Risk",
+    "description": "Disclose behavioural option risk from flexibility embedded implicitly or explicitly",
+    "category": "Market Risk",
+    "frequency": "N/A",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Behavioural Option Risk",
+    "description": "Disclosure of behavioural option risk arising from flexibility embedded in financial contracts",
+    "category": "Market Risk",
+    "frequency": "Not specified",
+    "data_required": [
+      "Description of behavioural option risk"
+    ]
+  },
+  {
+    "requirement_title": "Yield Curve Risk",
+    "description": "Disclosure of yield curve risk",
+    "category": "Market Risk",
+    "frequency": "Not specified",
+    "data_required": [
+      "Description of yield curve risk"
+    ]
+  },
+  {
+    "requirement_title": "Currency Mismatch Risk",
+    "description": "Disclosure of currency mismatch risk",
+    "category": "Market Risk",
+    "frequency": "Not specified",
+    "data_required": [
+      "Description of currency mismatch risk"
+    ]
+  },
+  {
+    "requirement_title": "Accounting Treatment Risk",
+    "description": "Disclosure of accounting treatment risk",
+    "category": "Market Risk",
+    "frequency": "Not specified",
+    "data_required": [
+      "Description of accounting treatment risk"
+    ]
+  },
+  {
+    "requirement_title": "Measurement of IRRBB",
+    "description": "There are two complementary methods of measuring the potential impact of IRRBB",
+    "category": "Other",
+    "frequency": "",
+    "data_required": [
+      "Changes in expected earnings",
+      "Changes in economic value"
+    ]
+  },
+  {
+    "requirement_title": "Change in Expected Earnings",
+    "description": "The change in expected earnings is reflected in the change in economic value.",
+    "category": "Capital",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Common Assumptions",
+    "description": "They are affected by common assumptions.",
+    "category": "Capital",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Key Differences between Measures",
+    "description": "The key differences between the measures include: outcome measure, EV measures compute a change in the net present value of the balance sheet under an interest rate stress.",
+    "category": "Capital",
+    "frequency": "",
+    "data_required": [
+      "outcome measure",
+      "EV measures",
+      "net present value of the balance sheet",
+      "interest rate stress"
+    ]
+  },
+  {
+    "requirement_title": "EV Measures",
+    "description": "Disclosure of EV measures and their differences",
+    "category": "Capital",
+    "frequency": "Annually",
+    "data_required": [
+      "EV measures, earnings-adjusted EV, EVE"
+    ]
+  },
+  {
+    "requirement_title": "Time Horizon",
+    "description": "Disclosure of time horizon for EV measures and earnings-based measures",
+    "category": "Capital",
+    "frequency": "Annually",
+    "data_required": [
+      "Time horizon for EV measures, time horizon for earnings-based measures"
+    ]
+  },
+  {
+    "requirement_title": "Risks that will continue to impact profit and loss accounts",
+    "description": "Disclosure of risks that will continue to impact profit and loss accounts beyond the period of estimation.",
+    "category": "Risk-Weighted-Assets",
+    "frequency": "Not specified",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Future transactions",
+    "description": "Disclosure of the impact of new business/production that is expected to be written in the future, as well as the run-off of existing business.",
+    "category": "Risk-Weighted-Assets",
+    "frequency": "Not specified",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Impact of changes in interest rates on future accrued or reported earnings",
+    "description": "Disclosure of the impact of changes in interest rates on future accrued or reported earnings.",
+    "category": "Market Risk",
+    "frequency": "Not specified",
+    "data_required": [
+      "Impact of changes in interest rates on future accrued or reported earnings"
+    ]
+  },
+  {
+    "requirement_title": "Net Interest Income (NII)",
+    "description": "Disclosure of the difference between total interest income and total interest expense, taking account of hedging activity.",
+    "category": "Credit Risk",
+    "frequency": "Not specified",
+    "data_required": [
+      "Net Interest Income (NII)"
+    ]
+  },
+  {
+    "requirement_title": "Earnings-based measure of risk",
+    "description": "Measure risk under a range of different time horizons",
+    "category": "Risk-Weighted-Assets",
+    "frequency": "Not specified",
+    "data_required": [
+      "Earnings-based measure"
+    ]
+  },
+  {
+    "requirement_title": "Focus on NII",
+    "description": "Focus on net interest income (NII) in banks' overall earnings",
+    "category": "Risk-Weighted-Assets",
+    "frequency": "Not specified",
+    "data_required": [
+      "Net interest income"
+    ]
+  },
+  {
+    "requirement_title": "Measuring IRRBB",
+    "description": "Measure the short- and medium-term vulnerabilities of the bank to IRRBB",
+    "category": "Capital",
+    "frequency": "Not specified",
+    "data_required": [
+      "Not specified"
+    ]
+  },
+  {
+    "requirement_title": "Earnings-based measure",
+    "description": "Assess the ability of a bank to generate stable earnings over a medium-term horizon",
+    "category": "Capital",
+    "frequency": "Not specified",
+    "data_required": [
+      "Projected future earnings under expected economic scenario",
+      "Projected future earnings under interest rate shock and stress scenarios"
+    ]
+  },
+  {
+    "requirement_title": "Bank's Management Response",
+    "description": "The bank's own management response to the evolving economic climate.",
+    "category": "Other",
+    "frequency": "Not specified",
+    "data_required": [
+      "(1) the volume and type of new/replacement assets and liabilities expected to be originated over the evaluation period;",
+      "(2) the volume and type of asset and liability redemptions/reductions over that period;",
+      "(3) the interest rate basis and margin associated with the new assets and liabilities, and with those redeemed/withdrawn;",
+      "(4) the impact of any fees collected/paid for exercise of options."
+    ]
+  },
+  {
+    "requirement_title": "Modelling of Earnings",
+    "description": "Modelling of earnings under three different states.",
+    "category": "Other",
+    "frequency": "Not specified",
+    "data_required": [
+      "(1) run-off balance sheet: existing assets and liabilities not replaced as they mature, except to the extent necessary to fund the remaining balance sheet;",
+      "(2) constant balance sheet: total balance sheet size and shape maintained by assuming like-for-like replacement of assets and liabilities as they run off;",
+      "(3) dynamic balance sheet: incorporating future business expectations, adjusted for the evolving economic climate."
+    ]
+  },
+  {
+    "requirement_title": "Dynamic Balance Sheet",
+    "description": "Incorporating future business expectations, adjusted for the relevant scenario in a consistent manner.",
+    "category": "Other",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Economic Value Approach",
+    "description": "Theoretical change in the net embedded market value of the whole banking book.",
+    "category": "Market Risk",
+    "frequency": "",
+    "data_required": [
+      "Present Value",
+      "Contractual Cash Flows",
+      "Market Rates"
+    ]
+  },
+  {
+    "requirement_title": "Valuation of Assets and Liabilities",
+    "description": "Valuation of assets and liabilities with uncertain contractual cash flows",
+    "category": "Risk-Weighted-Assets",
+    "frequency": "Not specified",
+    "data_required": [
+      "Assumptions about behaviour and timing",
+      "External factors"
+    ]
+  },
+  {
+    "requirement_title": "Application of EV to Banking Book",
+    "description": "Application of Enterprise Value to the whole balance sheet of a bank",
+    "category": "Risk-Weighted-Assets",
+    "frequency": "Not specified",
+    "data_required": [
+      "Assets and liabilities accounted for at held-to-maturity valuation",
+      "Embedded under- and overvaluations",
+      "Discount rate",
+      "Customer behaviour"
+    ]
+  },
+  {
+    "requirement_title": "Customer Behaviour",
+    "description": "Disclosure of potential variation in asset values due to customer response to rate changes",
+    "category": "Capital",
+    "frequency": "Not specified",
+    "data_required": [
+      "Description of potential variation"
+    ]
+  },
+  {
+    "requirement_title": "Structural Positions",
+    "description": "Disclosure of assets held to stabilize return on non-maturity assets",
+    "category": "Capital",
+    "frequency": "Not specified",
+    "data_required": [
+      "Description of structural positions"
+    ]
+  },
+  {
+    "requirement_title": "Risk Reduction from Earnings Volatility",
+    "description": "Banks must disclose the risk reduction from earnings volatility",
+    "category": "Capital",
+    "frequency": "Not specified",
+    "data_required": [
+      "Risk reduction from earnings volatility"
+    ]
+  },
+  {
+    "requirement_title": "Measuring IRRBB",
+    "description": "Measuring the level of change to the net present value of the relevant balance sheet items, based on existing or adjusted cash flows that are revalued in line with the interest rate shock and stress scenarios.",
+    "category": "Capital",
+    "frequency": "Not specified",
+    "data_required": [
+      "Range of shocks to the possible changes in the level, slope and shape of interest rate yield curves",
+      "Economic stress scenarios",
+      "Expectations for the exercise of options (explicit and implicit) by both the bank itself and its customers under the given scenarios"
+    ]
+  },
+  {
+    "requirement_title": "Treatment of non-maturity deposits",
+    "description": "Quantification of risk in balances and interest flows from non-maturity deposits",
+    "category": "Risk-Weighted-Assets",
+    "frequency": "Not specified",
+    "data_required": [
+      "Risk quantification"
+    ]
+  },
+  {
+    "requirement_title": "Implied investment term of equity capital liability",
+    "description": "Bank's own determination of implied investment term of equity capital liability",
+    "category": "Capital",
+    "frequency": "Not specified",
+    "data_required": [
+      "Implied investment term"
+    ]
+  },
+  {
+    "requirement_title": "Implications of accounting practices on IRRBB",
+    "description": "Impact of adopted accounting practices on IRRBB",
+    "category": "Other",
+    "frequency": "Not specified",
+    "data_required": [
+      "Accounting practices"
+    ]
+  },
+  {
+    "requirement_title": "IRRBB Management",
+    "description": "Relevant business and sufficiently stressful is a key element of IRRBB management",
+    "category": "Other",
+    "frequency": "",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Behavioural Assumptions",
+    "description": "Behaviour of option positions is one of the key set of assumptions that drive risk quantification measures",
+    "category": "Market Risk",
+    "frequency": "",
+    "data_required": [
+      "Behavioural assumptions"
+    ]
+  },
+  {
+    "requirement_title": "Automatic Option Valuation",
+    "description": "Automatic option positions can be valued on the basis that exercise will always occur when there is financial benefit",
+    "category": "Market Risk",
+    "frequency": "",
+    "data_required": [
+      "Valuation based on standard financial modelling techniques"
+    ]
+  },
+  {
+    "requirement_title": "Behavioral Option Positions",
+    "description": "Complex analysis of expected outcomes for customers' option exercises",
+    "category": "Credit Risk",
+    "frequency": "Not specified",
+    "data_required": [
+      "Expected outcomes of customers' option exercises"
+    ]
+  },
+  {
+    "requirement_title": "Disclosure of Early Redemption Options",
+    "description": "Disclosure of the impact of early redemption options on earnings and economic value",
+    "category": "Credit Risk",
+    "frequency": "Annually",
+    "data_required": [
+      "Description of early redemption options",
+      "Impact on earnings and economic value"
+    ]
+  },
+  {
+    "requirement_title": "Use of economic value and earnings-based measures",
+    "description": "Banks need to review and adjust their calculations to account for expected behaviors when using economic value and earnings-based measures.",
+    "category": "Risk-Weighted-Assets",
+    "frequency": "Frequent",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Estimation of cash flows",
+    "description": "Estimate cash flows for economic value and earnings-based measures.",
+    "category": "Risk-Weighted-Assets",
+    "frequency": "Frequent",
+    "data_required": [
+      "Cash flows"
+    ]
+  },
+  {
+    "requirement_title": "Treatment of NMDs",
+    "description": "Treat NMDs as liabilities with no contractually agreed maturity date.",
+    "category": "Risk-Weighted-Assets",
+    "frequency": "Frequent",
+    "data_required": [
+      "NMD balances"
+    ]
+  },
+  {
+    "requirement_title": "NMD Stability",
+    "description": "NMDs have historically proved to be relatively stable in practice, even when market rates change.",
+    "category": "Liquidity",
+    "frequency": "Not specified",
+    "data_required": []
+  },
+  {
+    "requirement_title": "NMD Replacement",
+    "description": "Balances lost can usually be replaced with new deposits at the same rate.",
+    "category": "Liquidity",
+    "frequency": "Not specified",
+    "data_required": []
+  },
+  {
+    "requirement_title": "NMD Interest Rates",
+    "description": "Interest paid on NMDs is usually at rates significantly below those paid for wholesale or larger-denomination deposits.",
+    "category": "Liquidity",
+    "frequency": "Not specified",
+    "data_required": []
+  },
+  {
+    "requirement_title": "NMD Sensitivity",
+    "description": "NMD sensitivity may have increased as a result of the sustained period of accommodative monetary policy in some of the world's largest economies.",
+    "category": "Liquidity",
+    "frequency": "Not specified",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Identification of core deposits",
+    "description": "Banks identify core deposits to manage earnings volatility arising from NMDs",
+    "category": "Risk-Weighted-Assets",
+    "frequency": "Not specified",
+    "data_required": [
+      "Core deposits",
+      "NMDs"
+    ]
+  },
+  {
+    "requirement_title": "Dynamic Management of Matching Book of Assets",
+    "description": "Banks must dynamically manage their matching book of assets to adjust for changes in core deposits and maintain a constant maturity.",
+    "category": "Liquidity",
+    "frequency": "Not specified",
+    "data_required": [
+      "Levels of core deposits",
+      "Expected behaviour",
+      "Risk appetite"
+    ]
+  },
+  {
+    "requirement_title": "Constant Maturity Profile",
+    "description": "Evaluate the extent and impact of the compromise made",
+    "category": "Capital",
+    "frequency": "",
+    "data_required": [
+      ""
+    ]
+  },
+  {
+    "requirement_title": "Equity Capital Treatment",
+    "description": "Define net equity capital eligible for behavioural treatment and consider non-interest bearing assets as financed by equity.",
+    "category": "Capital",
+    "frequency": "Not specified",
+    "data_required": [
+      "Net equity capital",
+      "Non-interest bearing assets"
+    ]
+  },
+  {
+    "requirement_title": "Earnings Volatility Management",
+    "description": "Banks determine their own strategies for managing earnings volatility arising from equity capital.",
+    "category": "Capital",
+    "frequency": "Not specified",
+    "data_required": [
+      "Earnings volatility management strategies"
+    ]
+  },
+  {
+    "requirement_title": "EVE Risk Assessment",
+    "description": "Regulators focus on EVE risk associated with earnings profiles ascribed to equity that may materialise as losses under stress events.",
+    "category": "Capital",
+    "frequency": "Not specified",
+    "data_required": [
+      "EVE risk",
+      "Earnings profiles",
+      "Stress events"
+    ]
+  },
+  {
+    "requirement_title": "Equity Buffer Against Losses",
+    "description": "Banks may determine that a portion of equity should remain invested short-term as a buffer against losses.",
+    "category": "Capital",
+    "frequency": "Not specified",
+    "data_required": [
+      "Equity buffer against losses"
+    ]
+  },
+  {
+    "requirement_title": "Quantifying IRRBB",
+    "description": "Measure change in economic value using PV01, EVE, and EVaR",
+    "category": "Risk-Weighted-Assets",
+    "frequency": "Not specified",
+    "data_required": [
+      "PV01",
+      "EVE",
+      "EVaR"
+    ]
+  },
+  {
+    "requirement_title": "Gap Analysis",
+    "description": "Derive the duration profile of the banking book or the profile of the present value of a single basis point change in interest rates (PV01).",
+    "category": "Risk-Weighted-Assets",
+    "frequency": "Not specified",
+    "data_required": [
+      "Interest rate-sensitive assets and liabilities",
+      "Equity, NMDs, prepaying loans or other instruments with future cash flows subject to customer behaviors"
+    ]
+  },
+  {
+    "requirement_title": "Risk Exposure Dispersion",
+    "description": "Approximation of the change in NII that would result from an increase in interest rates.",
+    "category": "Market Risk",
+    "frequency": "",
+    "data_required": [
+      ""
+    ]
+  },
+  {
+    "requirement_title": "Modified Duration",
+    "description": "Relative change in the market value of a financial instrument corresponding to marginal parallel shift of the yield curve.",
+    "category": "Market Risk",
+    "frequency": "",
+    "data_required": [
+      ""
+    ]
+  },
+  {
+    "requirement_title": "EV measures",
+    "description": "Valuing cash flows arising from existing assets and liabilities under different future interest scenarios",
+    "category": "Capital",
+    "frequency": "Not specified",
+    "data_required": [
+      "Change in EV",
+      "Change in NPV of future cash flows"
+    ]
+  },
+  {
+    "requirement_title": "Treatment of equity capital liability",
+    "description": "Measuring the change in the net present value of assets and liabilities under a stressed interest rate scenario",
+    "category": "Capital",
+    "frequency": "Not specified",
+    "data_required": [
+      "Net present value of assets and liabilities",
+      "Stressed interest rate scenario"
+    ]
+  },
+  {
+    "requirement_title": "EVE Measure",
+    "description": "Measure the proportionate size of the change in equity value",
+    "category": "Capital",
+    "frequency": "Not specified",
+    "data_required": [
+      "Starting value of equity",
+      "NPV outcome"
+    ]
+  },
+  {
+    "requirement_title": "Earnings-Adjusted EV",
+    "description": "Measure risks arising from non-structural positions",
+    "category": "Capital",
+    "frequency": "Not specified",
+    "data_required": [
+      "Starting value of equity",
+      "NPV outcome",
+      "Interest rate/term characteristics of the portfolio"
+    ]
+  },
+  {
+    "requirement_title": "EVE measure",
+    "description": "Theoretical change in the net present value of the balance sheet excluding equity",
+    "category": "Capital",
+    "frequency": "Not specified",
+    "data_required": [
+      "EVE measure value"
+    ]
+  },
+  {
+    "requirement_title": "Market Value of Equity",
+    "description": "Compute the market value of equity as the present value of asset cash flows, less the present value of liability cash flows, without including assumptions on the interest rate sensitivity of equity.",
+    "category": "Capital",
+    "frequency": "Not specified",
+    "data_required": [
+      "Cash flows calculated",
+      "Discount rates used"
+    ]
+  },
+  {
+    "requirement_title": "Accuracy of EV/EVE Measure",
+    "description": "Consider the precision of cash flows calculated and discount rates used in the calculation, and consider the likelihood of differences in cash flows depending on customer behavior in reaction to the rate environment.",
+    "category": "Capital",
+    "frequency": "Not specified",
+    "data_required": [
+      "Expected cash flows",
+      "Discount rates used",
+      "Customer behavior"
+    ]
+  },
+  {
+    "requirement_title": "EV/EVE Measure",
+    "description": "Capture all types of interest rate sensitivity, including gap risk and automatic option risk",
+    "category": "Market Risk",
+    "frequency": "Not specified",
+    "data_required": [
+      "Alternative scenarios",
+      "Yield curve risk",
+      "Stressed behavioural assumptions"
+    ]
+  },
+  {
+    "requirement_title": "Basis Risk Measurement",
+    "description": "Estimate basis risk in the banking book, either in isolation or combined with a general yield curve shift or change in assumed parameters",
+    "category": "Market Risk",
+    "frequency": "Not specified",
+    "data_required": [
+      "Scenario design",
+      "Yield curve shift",
+      "Change in assumed parameters"
+    ]
+  },
+  {
+    "requirement_title": "Basis Risk Measurement",
+    "description": "Design a scenario to measure basis risk by diverging base rates to which a bank is sensitive.",
+    "category": "Risk-Weighted-Assets",
+    "frequency": "Not specified",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Economic Value at Risk (EVaR) Calculation",
+    "description": "Calculate EVaR by computing changes in market value of the banking book under alternative yield curve scenarios.",
+    "category": "Market Risk",
+    "frequency": "Not specified",
+    "data_required": [
+      "Alternative yield curve scenarios",
+      "Changes in market value of the banking book"
+    ]
+  },
+  {
+    "requirement_title": "Standard VaR Approach",
+    "description": "Apply three techniques: historical simulation, variance-covariance approach, and Monte Carlo simulation.",
+    "category": "Market Risk",
+    "frequency": "Not specified",
+    "data_required": [
+      "Historical simulation",
+      "Variance-covariance approach",
+      "Monte Carlo simulation"
+    ]
+  },
+  {
+    "requirement_title": "Interest Rate Risk in the Banking Book",
+    "description": "Derive interest rates of different tenors from historical observations of changes and construct a variance-covariance matrix to account for correlations between rate shocks across tenors.",
+    "category": "Market Risk",
+    "frequency": "Not specified",
+    "data_required": [
+      "Historical observations of changes",
+      "Variance-covariance matrix"
+    ]
+  },
+  {
+    "requirement_title": "Earnings-Based Measures for Interest Rate Risk in the Banking Book",
+    "description": "Look at the expected increase or reduction in NII over a shorter time horizon (typically one to three years, up to a maximum five years) resulting from interest rate changes.",
+    "category": "Market Risk",
+    "frequency": "Not specified",
+    "data_required": [
+      "Expected increase or reduction in NII",
+      "Time horizon"
+    ]
+  },
+  {
+    "requirement_title": "Time Horizon",
+    "description": "Resulting from interest rate movements that are composed of either a gradual or a one-time large",
+    "category": "Capital",
+    "frequency": "One to three years, up to a maximum five years",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Interest Rate Shock Disclosure",
+    "description": "Disclose the change in Net Interest Income (NII) due to interest rate shock",
+    "category": "Credit Risk",
+    "frequency": "Annually",
+    "data_required": [
+      "Expected NII in base scenario",
+      "Expected NII in alternative scenario",
+      "Interest rates used for resetting transactions",
+      "Projected spreads and margins"
+    ]
+  },
+  {
+    "requirement_title": "Interest Rate Risk Profile",
+    "description": "An earnings-based measure analyses the interest rate risk profile of the banking book in a detailed way tailored to the bank's specific circumstances.",
+    "category": "Market Risk",
+    "frequency": "Not specified",
+    "data_required": [
+      "Interest rate risk profile"
+    ]
+  },
+  {
+    "requirement_title": "Interest Rate Risk Sensitivity",
+    "description": "This method is able to capture all different types of interest rate risk sensitivity.",
+    "category": "Market Risk",
+    "frequency": "Not specified",
+    "data_required": [
+      "Interest rate risk sensitivity"
+    ]
+  },
+  {
+    "requirement_title": "Sensitivity of modelling results",
+    "description": "Results of modelling are sensitive to assumptions about customer behaviour and management responses to rate scenarios",
+    "category": "Other",
+    "frequency": "Not applicable",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Earnings-based measures limitations",
+    "description": "Earnings-based measures have limitations, including ignoring changes beyond observation period and not identifying risks to capital",
+    "category": "Other",
+    "frequency": "Not applicable",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Derivation of interest rate shocks",
+    "description": "Description of prescribed interest rate shock scenarios for EVE and NII",
+    "category": "Other",
+    "frequency": "Not applicable",
+    "data_required": []
+  },
+  {
+    "requirement_title": "Step 1: Generate 16-year time series of daily average interest rates",
+    "description": "Generate a 16-year time series of daily average interest rates for each currency",
+    "category": "Other",
+    "frequency": "One-time",
+    "data_required": [
+      "Average daily interest rates from 2000 to 2015",
+      "Currency-specific interest rates"
+    ]
+  },
+  {
+    "requirement_title": "Global Shock Parameter Prescription",
+    "description": "Prescribe global shock parameter based on weighted average of currency-specific shock parameters",
+    "category": "Risk-Weighted-Assets",
+    "frequency": "N/A",
+    "data_required": [
+      "Weighted average of currency-specific shock parameters"
+    ]
+  },
+  {
+    "requirement_title": "Revised Interest Rate Shocks",
+    "description": "Apply \u03b1 from Table 2 to average long-term rates from Table 1 to obtain revised interest rate shocks by currency",
+    "category": "Market Risk",
+    "frequency": "N/A",
+    "data_required": [
+      "\u03b1 from Table 2",
+      "Average long-term rates from Table 1"
+    ]
+  },
+  {
+    "requirement_title": "Interest Rate Shock Calibration",
+    "description": "Ensure a minimum level of prudence and a level playing field by setting a floor of 100 basis points and variable caps for interest rate shocks.",
+    "category": "Other",
+    "frequency": "Scenario-based",
+    "data_required": [
+      "Floor of 100 basis points",
+      "Variable caps (500 basis points for short-term, 400 basis points for parallel)"
+    ]
+  },
+  {
+    "requirement_title": "Interest Rate Shock Scenarios",
+    "description": "Define interest rate shock scenarios for short-term, parallel, and long-term interest rates",
+    "category": "Risk-Weighted-Assets",
+    "frequency": "Not specified",
+    "data_required": [
+      "Caps and floors for interest rate shocks by currency"
+    ]
+  },
+  {
+    "requirement_title": "Risk-Free Interest Rate Change",
+    "description": "Define the change in risk-free interest rate for each shock scenario and currency",
+    "category": "Risk-Weighted-Assets",
+    "frequency": "Not specified",
+    "data_required": [
+      "Change in risk-free interest rate for each shock scenario and currency"
+    ]
+  },
+  {
+    "requirement_title": "National Discretion for Interest Rate Shocks",
+    "description": "Supervisors may set a higher floor under local interest rate shock scenarios and/or a zero or negative lower bound for post-shock interest rates",
+    "category": "Other",
+    "frequency": "Not specified",
+    "data_required": [
+      "Higher floor under local interest rate shock scenarios",
+      "Zero or negative lower bound for post-shock interest rates"
+    ]
+  }
+]
