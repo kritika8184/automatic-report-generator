@@ -18,11 +18,15 @@ function FileUploadForm({ onUploadComplete }) {
 
     setUploading(true);
     try {
-      const res = await axios.post("http://localhost:8000/upload-report", formData, {
-        headers: {
-          "Content-Type": "multipart/form-data",
-        },
-      });
+      const res = await axios.post(
+        "http://localhost:8000/upload-report",
+        formData,
+        {
+          headers: {
+            "Content-Type": "multipart/form-data",
+          },
+        }
+      );
       console.log("Upload success:", res.data);
       onUploadComplete(res.data); // optional callback
     } catch (err) {
@@ -33,14 +37,26 @@ function FileUploadForm({ onUploadComplete }) {
   };
 
   return (
-    <form onSubmit={handleSubmit} className="mb-4">
-      <div className="d-flex align-items-stretch gap-2">
-      <input type="file" accept=".pdf" onChange={handleFileChange} className="form-control col-md-4"
-      style={{ height: "100%" }}/>
-      <button type="submit" disabled={uploading} className="btn btn-primary ms-2 col-md-2"
-      style={{ whiteSpace: "nowrap" }}>
-        {uploading ? "Uploading..." : "Upload Report"}
-      </button>
+    <form onSubmit={handleSubmit} className="" w-100>
+      <div className="row g-2 align-items-center">
+        <div className="col-md-8">
+          <input
+            type="file"
+            accept=".pdf"
+            onChange={handleFileChange}
+            className="form-control col-md-4"
+            style={{ height: "100%" }}
+          />
+        </div>
+        <div className="col-md-4">
+          <button
+            type="submit"
+            disabled={uploading}
+            className="btn btn-primary w-100"
+          >
+            {uploading ? "Uploading..." : "Upload Report"}
+          </button>
+        </div>
       </div>
     </form>
   );
