@@ -112,15 +112,17 @@ function App() {
 
   return (
     <div className="bg-dark text-light min-vh-100 px-4 py-5">
-      <button
-        className="btn btn-outline-danger d-flex"
+      <div className="d-flex jusotufy-content-betwen align-items-center mb-4">
+      <h1 className="mb-0 text-center w-100">Basel III Missing Disclosures</h1>
+            <button
+        className="btn btn-outline-danger position-absolute end-0 me-4"
         onClick={exportToPDF}
         title="Export to PDF"
       >
         <FaFilePdf className="me-2" />
         Export
-      </button>
-      <h1 className="text-center mb-4">Basel III Missing Disclosures</h1>
+        </button>
+        </div>
       <div className="container mb-4">
         <div className="row g-3">
           <div className="col-md-6">
@@ -152,7 +154,7 @@ function App() {
             >
               {checkingCompliance ? "Checking..." : "Check Compliance"}
             </button>
-          </div>
+        </div>
         </div>
       </div>
 
