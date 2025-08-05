@@ -1,4 +1,3 @@
-// FileUploadForm.jsx
 import { useState } from "react";
 import axios from "axios";
 
@@ -35,10 +34,14 @@ function FileUploadForm({ onUploadComplete }) {
 
   return (
     <form onSubmit={handleSubmit} className="mb-4">
-      <input type="file" accept=".pdf" onChange={handleFileChange} />
-      <button type="submit" disabled={uploading} className="btn btn-primary ms-2">
+      <div className="d-flex align-items-stretch gap-2">
+      <input type="file" accept=".pdf" onChange={handleFileChange} className="form-control col-md-4"
+      style={{ height: "100%" }}/>
+      <button type="submit" disabled={uploading} className="btn btn-primary ms-2 col-md-2"
+      style={{ whiteSpace: "nowrap" }}>
         {uploading ? "Uploading..." : "Upload Report"}
       </button>
+      </div>
     </form>
   );
 }
