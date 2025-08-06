@@ -44,6 +44,7 @@ function App() {
   const handleReportSelect = (e) => {
     setSelectedReport(e.target.value);
     setSelectedFile(null);
+    fetchDisclosures(e.target.value);
   };
 
   const handleCheckCompliance = async () => {
@@ -93,7 +94,6 @@ function App() {
 
     let position = 0;
     if (pdfHeight > pageHeight) {
-      // Multi-page support
       let heightLeft = pdfHeight;
       while (heightLeft > 0) {
         pdf.addImage(imgData, "PNG", 0, position, pdfWidth, pdfHeight);
@@ -110,25 +110,46 @@ function App() {
     pdf.save(`${selectedReport || "disclosure"}_compliance_report.pdf`);
   };
 
+  const fetchDisclosures = async (reportName) => {
+  try {
+    const formData = new FormData();
+    formData.append("report_name", reportName);
+
+    const res = await axios.post("http://localhost:8000/check-compliance", formData, {
+      headers: { "Content-Type": "multipart/form-data" },
+    });
+    setDisclosures(res.data);
+  } catch (error) {
+    console.error("Error fetching disclosures:", error);
+  }
+};
+
   return (
     <div className="bg-dark text-light min-vh-100 px-4 py-5">
-      <div className="d-flex jusotufy-content-betwen align-items-center mb-4">
-      <h1 className="mb-0 text-center w-100">Basel III Missing Disclosures</h1>
-            <button
-        className="btn btn-outline-danger position-absolute end-0 me-4"
-        onClick={exportToPDF}
-        title="Export to PDF"
-      >
-        <FaFilePdf className="me-2" />
-        Export
+      <div className="d-flex justify-content-betwen align-items-center mb-4">
+        <h1 className="mb-0 text-center w-100">
+          Basel III Missing Disclosures
+        </h1>
+        <button
+        className="btn btn-outline-light position-absolute end-0 me-4"
+          onClick={exportToPDF}
+          title="Export to PDF"
+          style={{color:"#A70DD6", borderColor:"#A70DD6"}}
+        >
+          <FaFilePdf className="me-2" />
+          Export
         </button>
-        </div>
+      </div>
       <div className="container mb-4">
         <div className="row g-3">
           <div className="col-md-6">
             <FileUploadForm
               onUploadComplete={(data) => {
                 console.log("Upload Success!", data);
+                if(data?.filename){
+                  setSelectedReport(data.filename);
+                  fetchDisclosures(data.filename);
+                }
               }}
             />
           </div>
@@ -141,33 +162,43 @@ function App() {
               <option value="">Select Existing Report</option>
               {availableReports.map((report, i) => (
                 <option key={i} value={report}>
-                  {report}
+                  {report.split('.')[0]}
                 </option>
               ))}
             </select>
           </div>
           <div className="col-md-2">
             <button
-              className="btn btn-info w-100"
+              className="btn button-gradient w-100 text-white"
               onClick={handleCheckCompliance}
               disabled={checkingCompliance}
             >
               {checkingCompliance ? "Checking..." : "Check Compliance"}
             </button>
-        </div>
+          </div>
         </div>
       </div>
 
       <div className="container" id="pdf-content">
         <div className="row g-4">
-          {disclosures.map((item, idx) =>
-            item.generated ? (
-              <div className="col-md-4 d-flex" key={idx}>
-                <DisclosureCard data={item.generated} />
-              </div>
-            ) : (
-              <></>
-            )
+          {disclosures.length === 0 ? (
+            <div className="col-12 text-center py-5">
+              <h4>Welcome to the Basel III Compliance Checker</h4>
+              <p className="lead">
+                To get started, please upload a bank disclosure report (PDF) or
+                select an existing report from the dropdown, then click{" "}
+                <strong>"Check Compliance"</strong> to see the missing
+                disclosures.
+              </p>
+            </div>
+          ) : (
+              disclosures.map((item, idx) =>
+                item.generated ? (
+                  <div className="col-md-4 d-flex" key={idx}>
+                    <DisclosureCard data={item.generated} />
+                  </div>
+                ) : null
+              )
           )}
         </div>
       </div>

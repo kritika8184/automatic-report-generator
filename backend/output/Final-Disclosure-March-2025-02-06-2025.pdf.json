@@ -1,0 +1,378 @@
+[
+  {
+    "requirement_title": "Disclosure of credit risk",
+    "generated": {
+      "requirement_title": "Disclosure of Credit Risk",
+      "category": "Credit Risk",
+      "importance_summary": "This requirement is important as it provides stakeholders with a clear understanding of a bank's credit risk profile, enabling them to make informed decisions about their investments, loans, or other financial transactions. Additionally, it promotes transparency and accountability, helping to mitigate potential risks and maintain trust in the financial system.",
+      "generated_disclosure": {
+        "section_title": "Credit Risk Overview",
+        "narrative": "Our institution's credit risk is managed through a comprehensive framework that assesses the likelihood of default, loss given default, and expected loss for each loan or credit exposure. Our credit risk management strategy is designed to balance the need for profitability with the need to maintain a stable and sustainable credit portfolio. We continuously monitor and update our credit risk assessment to reflect changes in market conditions, economic trends, and other relevant factors.",
+        "suggested_metrics": [
+          "Credit risk weighted assets as a percentage of total assets",
+          "Default rate for the past 12 months",
+          "Expected loss for the past 12 months"
+        ],
+        "visualization_hint": "table"
+      }
+    }
+  },
+  {
+    "requirement_title": "Disclosure of operational risk",
+    "generated": {
+      "requirement_title": "Disclosure of operational risk",
+      "category": "Operational Risk",
+      "importance_summary": "This requirement is important as it allows stakeholders to assess the bank's ability to manage and mitigate operational risks, which can have significant financial and reputational impacts. Clear disclosure of operational risk helps to promote transparency, accountability, and informed decision-making. It also enables investors, regulators, and other stakeholders to make more informed decisions about the bank's risk profile and potential return on investment.",
+      "generated_disclosure": {
+        "section_title": "Operational Risk Disclosure",
+        "narrative": "Our bank is committed to managing operational risk to protect our assets, reputation, and customer relationships. We have implemented robust risk management frameworks, processes, and controls to identify, assess, and mitigate operational risks. Our operational risk management practices are regularly reviewed and updated to ensure compliance with regulatory requirements and industry best practices.",
+        "suggested_metrics": [
+          "Operational risk loss ratio",
+          "Number of operational risk incidents",
+          "Operational risk exposure",
+          "Operational risk mitigation effectiveness",
+          "Operational risk management costs"
+        ],
+        "visualization_hint": "table"
+      }
+    }
+  },
+  {
+    "requirement_title": "Disclosure of accounting values of fair valued instruments",
+    "generated": {
+      "requirement_title": "Disclosure of accounting values of fair valued instruments",
+      "category": "Risk-Weighted-Assets",
+      "importance_summary": "This requirement is important as it allows stakeholders to better understand the volatility of banks' financial positions and risks, enabling more informed decision-making. The disclosure of accounting values of fair valued instruments provides a crucial insight into the potential impact of market fluctuations on a bank's balance sheet and profitability.",
+      "generated_disclosure": {
+        "section_title": "Disclosure of Fair Valued Instruments",
+        "narrative": "The table below provides a breakdown of the accounting values of fair valued instruments as of the reporting date, including the carrying value, fair value, and any unrealized gains or losses. This information is essential for understanding the potential exposure of the bank to market risks and the impact of changes in market conditions on its financial performance.",
+        "suggested_metrics": [
+          "Carrying Value of Fair Valued Instruments",
+          "Fair Value of Fair Valued Instruments",
+          "Unrealized Gains/Losses on Fair Valued Instruments",
+          "Average Life of Fair Valued Instruments",
+          "Concentration of Fair Valued Instruments by Asset Class"
+        ],
+        "visualization_hint": "table"
+      }
+    }
+  },
+  {
+    "requirement_title": "Disclosure of impact of effective interest rate calculations and loan loss provisions on accounting values",
+    "generated": {
+      "requirement_title": "Disclosure of impact of effective interest rate calculations and loan loss provisions on accounting values",
+      "category": "Risk-Weighted-Assets",
+      "importance_summary": "This requirement is important because it ensures transparency and accuracy in the calculation of risk-weighted assets, which is critical for banks to manage their capital adequacy and risk exposure. The disclosure of the impact of effective interest rate calculations and loan loss provisions on accounting values helps stakeholders understand the bank's risk profile and make informed decisions.",
+      "generated_disclosure": {
+        "section_title": "Impact of Effective Interest Rate Calculations and Loan Loss Provisions on Accounting Values",
+        "narrative": "The bank's accounting value may differ from the balance required for IRRBB purposes due to the impact of effective interest rate calculations and the treatment of loan loss provisions. This difference can result in a mismatch between the bank's reported capital and its actual risk exposure. The following metrics provide a summary of the impact of these factors on the bank's accounting values.",
+        "suggested_metrics": [
+          "Effective interest rate calculation impact on accounting value",
+          "Loan loss provision impact on accounting value",
+          " Net interest income (NII) impact on accounting value",
+          "Risk-weighted assets (RWA) impact on accounting value",
+          "Capital adequacy ratio (CAR) impact on accounting value"
+        ],
+        "visualization_hint": "table"
+      }
+    }
+  },
+  {
+    "requirement_title": "Disclosure of interest rates",
+    "generated": {
+      "requirement_title": "Disclosure of interest rates",
+      "category": "Credit Risk",
+      "importance_summary": "This requirement is important for banks and stakeholders as it provides transparency into the composition of interest rates, enabling better understanding of credit risk, profitability, and capital requirements.",
+      "generated_disclosure": {
+        "section_title": "Interest Rate Decomposition",
+        "narrative": "The interest rate decomposition is a critical component of credit risk management, as it reveals the individual components that contribute to the overall interest income. This breakdown enables banks to assess the impact of changes in benchmark rates, funding costs, and credit spreads on their earnings and capital requirements. Furthermore, it facilitates comparison with industry peers and regulatory requirements, promoting a more informed and robust risk management framework.",
+        "suggested_metrics": [
+          "Benchmark Rate",
+          "Funding Margin",
+          "Credit Margin",
+          "Interest Income Breakdown",
+          "Risk-Weighted Assets"
+        ],
+        "visualization_hint": "table"
+      }
+    }
+  },
+  {
+    "requirement_title": "Monitoring and assessment of CSRBB",
+    "generated": {
+      "requirement_title": "Monitoring and assessment of CSRBB",
+      "category": "Market Risk",
+      "importance_summary": "This requirement is important for banks and stakeholders as it ensures that banks accurately monitor and assess their Counterparty Risk Subject to Basel III (CSRBB), which is a critical component of market risk management. Accurate monitoring and assessment of CSRBB helps banks to identify potential exposures and manage them effectively, thereby mitigating potential losses and maintaining financial stability.",
+      "generated_disclosure": {
+        "section_title": "Counterparty Risk Subject to Basel III (CSRBB) Monitoring and Assessment",
+        "narrative": "As part of our market risk management framework, we monitor and assess our CSRBB on a regular basis. This includes identifying and verifying the creditworthiness of our counterparties, calculating their potential exposure, and assessing the likelihood of default. Our monitoring and assessment process is designed to ensure that we accurately reflect our CSRBB in our risk calculations and maintain a robust market risk management framework.",
+        "suggested_metrics": [
+          "CSRBB exposure calculated as a percentage of total assets",
+          "Number of counterparties with a CSRBB exposure above a certain threshold",
+          "CSRBB exposure by asset class (e.g., cash, securities, derivatives)"
+        ],
+        "visualization_hint": "table"
+      }
+    }
+  },
+  {
+    "requirement_title": "Disclosure of behavioural option risk",
+    "generated": {
+      "requirement_title": "Disclosure of behavioural option risk",
+      "category": "Market Risk",
+      "importance_summary": "This requirement is important as it helps banks and stakeholders understand the potential impact of changes in interest rates on the behaviour of clients. By disclosing this information, banks can better manage their market risk exposure and make more informed decisions about their lending and investment activities.",
+      "generated_disclosure": {
+        "section_title": "Behavioral Option Risk Disclosure",
+        "narrative": "The behavioural option risk disclosure provides information on the flexibility embedded in financial contracts that may affect the behaviour of clients in response to changes in interest rates. This risk arises from the implicit or explicit options embedded in contracts, such as the ability of clients to exercise options, adjust or terminate contracts. The disclosure will help stakeholders understand the potential impact on the bank's market risk exposure and make more informed decisions.",
+        "suggested_metrics": [
+          "Number of contracts with embedded options",
+          "Value of contracts with embedded options",
+          "Percentage of clients with options",
+          "Average exercise price of options",
+          "Expected impact on market risk exposure"
+        ],
+        "visualization_hint": "table"
+      }
+    }
+  },
+  {
+    "requirement_title": "Disclosure of EV measures",
+    "generated": {
+      "requirement_title": "Disclosure of EV measures",
+      "category": "Capital",
+      "importance_summary": "This requirement is important as it enables investors, analysts, and regulators to better understand a bank's capital adequacy and risk exposure. The disclosure of EV (Expected Earnings) measures, including EVE and earnings-adjusted EV, provides a more accurate picture of a bank's ability to absorb losses and maintain its capital buffer. This transparency is essential for informed decision-making and maintaining market confidence.",
+      "generated_disclosure": {
+        "section_title": "EV Measures Disclosure",
+        "narrative": "The following table presents the bank's EV measures, including EVE and earnings-adjusted EV, and highlights their differences. EVE represents the expected earnings available to absorb potential losses, while earnings-adjusted EV takes into account the bank's earnings variability. These measures provide a more comprehensive view of the bank's capital adequacy and risk exposure.",
+        "suggested_metrics": [
+          "EVE (Expected Earnings)",
+          "Earnings-Adjusted EV",
+          "Difference between EVE and Earnings-Adjusted EV"
+        ],
+        "visualization_hint": "table"
+      }
+    }
+  },
+  {
+    "requirement_title": "Disclosure of risks that will continue to impact profit and loss accounts beyond the period of estimation",
+    "generated": {
+      "requirement_title": "Disclosure of risks that will continue to impact profit and loss accounts beyond the period of estimation",
+      "category": "Credit Risk",
+      "importance_summary": "This requirement is essential for banks to provide transparency to stakeholders on the potential long-term impact of credit risk on their financial statements. By disclosing these risks, banks can demonstrate their ability to manage and mitigate potential future losses, thereby enhancing investor confidence and reducing the risk of regulatory scrutiny.",
+      "generated_disclosure": {
+        "section_title": "Credit Risk Profile",
+        "narrative": "The following table provides an overview of the credit risks that are expected to continue impacting our profit and loss accounts beyond the period of estimation. These risks are categorized by type and include the estimated potential impact on our financial statements.",
+        "suggested_metrics": [
+          "Total credit risk exposure",
+          "Provision coverage ratio",
+          "Expected credit loss (ECL) as a percentage of total assets"
+        ],
+        "visualization_hint": "table"
+      }
+    }
+  },
+  {
+    "requirement_title": "Bank's own management response to the evolving economic climate",
+    "generated": {
+      "requirement_title": "Bank's own management response to the evolving economic climate",
+      "category": "Other",
+      "importance_summary": "This requirement is important for banks and stakeholders as it provides transparency into a bank's ability to adapt to changing economic conditions, which can significantly impact its financial stability and resilience.",
+      "generated_disclosure": {
+        "section_title": "Economic Climate Management Response",
+        "narrative": "In response to the evolving economic climate, our bank has taken proactive steps to manage our asset and liability exposures. We have actively managed our new/replacement assets and liabilities to ensure alignment with our risk appetite and strategic objectives. We have also carefully monitored and managed our asset and liability redemptions/reductions to minimize potential losses and maintain liquidity.",
+        "suggested_metrics": [
+          "Percentage of new/replacement assets and liabilities to total assets",
+          "Volume of asset and liability redemptions/reductions as a percentage of total assets",
+          "Interest rate basis and margin spread"
+        ],
+        "visualization_hint": "table"
+      }
+    }
+  },
+  {
+    "requirement_title": "Disclosure of the impact of customer behaviour on the valuation of assets and liabilities",
+    "generated": {
+      "requirement_title": "Disclosure of the impact of customer behaviour on the valuation of assets and liabilities",
+      "category": "Credit Risk",
+      "importance_summary": "This requirement is important as it ensures that banks accurately capture the potential impact of customer behavior on the valuation of their assets and liabilities. Inaccurate valuations can lead to misstated financials, increased credit risk, and potential financial losses. Transparency around this risk enables stakeholders to make informed decisions and better manage their exposure.",
+      "generated_disclosure": {
+        "section_title": "Customer Behaviour Impact on Valuation",
+        "narrative": "Customer behaviour can significantly influence the valuation of assets and liabilities, particularly in response to changes in interest rates. For example, customers may adjust their borrowing habits, leading to changes in loan repayments and interest income. Similarly, changes in deposit rates can impact customer behaviour, influencing deposit growth and interest expense. This disclosure provides insight into the potential impact of customer behaviour on our valuation of assets and liabilities.",
+        "suggested_metrics": [
+          "Customer deposit growth rates",
+          "Loan repayment rates",
+          "Interest income and expense volatility",
+          "Customer retention rates",
+          "Asset and liability valuation sensitivity to interest rate changes"
+        ],
+        "visualization_hint": "table"
+      }
+    }
+  },
+  {
+    "requirement_title": "Disclosure of behavioural option positions",
+    "generated": {
+      "requirement_title": "Disclosure of behavioural option positions",
+      "category": "Credit Risk",
+      "importance_summary": "This requirement is important for banks and stakeholders as it provides transparency into the complex credit risk profiles of loans with prepayment options. By disclosing behavioral option positions, banks can better manage their risk exposures and make informed decisions about loan origination, pricing, and risk management. This information also enables stakeholders to assess the creditworthiness of the bank and the credit quality of the loan portfolio.",
+      "generated_disclosure": {
+        "section_title": "Behavioural Option Positions",
+        "narrative": "The following tables and charts provide an overview of the bank's behavioural option positions, including the analysis of expected outcomes and the complexity of prepayment options on loans. The tables include the aggregated outstanding balance of loans with prepayment options, the distribution of loan maturities, and the expected cash flows from loan prepayments. The charts illustrate the sensitivity of loan values to changes in interest rates and credit spreads.",
+        "suggested_metrics": [
+          "Prepayment rate (as a percentage of outstanding balance)",
+          "Average loan-to-value ratio",
+          "Expected loss given default (ELGD)",
+          "Credit migration risk (probability of upgrade/downgrade)",
+          "Option-adjusted spread (OAS)"
+        ],
+        "visualization_hint": "table"
+      }
+    }
+  },
+  {
+    "requirement_title": "Disclosure of dynamic matching of assets",
+    "generated": {
+      "requirement_title": "Disclosure of dynamic matching of assets",
+      "category": "Liquidity",
+      "importance_summary": "This requirement is crucial for banks and stakeholders as it ensures transparency in the management of liquidity risks. By disclosing the dynamic matching of assets, banks can demonstrate their ability to adjust to changes in core deposits and maintain a stable maturity profile, thereby mitigating potential liquidity crises.",
+      "generated_disclosure": {
+        "section_title": "Dynamic Matching of Assets",
+        "narrative": "Our bank regularly reviews and updates its asset matching strategy to ensure alignment with changes in core deposits and our risk appetite. This process involves actively managing the maturity profile of our assets to maintain a stable and diversified portfolio. The dynamic matching process ensures that our assets are optimally allocated to manage liquidity risks and maintain a stable funding profile.",
+        "suggested_metrics": [
+          "Effective duration of assets",
+          "Weighted average maturity of assets",
+          "Mismatch risk",
+          "Liquidity coverage ratio",
+          "Net stable funding ratio"
+        ],
+        "visualization_hint": "table"
+      }
+    }
+  },
+  {
+    "requirement_title": "Measures to evaluate the extent and impact of compromise made",
+    "generated": {
+      "requirement_title": "Measures to evaluate the extent and impact of compromise made",
+      "category": "Capital",
+      "importance_summary": "This requirement is important for banks to ensure transparency and accountability in their capital planning and decision-making processes. By evaluating the extent and impact of compromise made, banks can identify potential risks and take proactive measures to mitigate them, ultimately enhancing their financial stability and resilience.",
+      "generated_disclosure": {
+        "section_title": "Capital Compromise Evaluation",
+        "narrative": "The following measures are used to evaluate the extent and impact of compromise made in our capital planning and decision-making processes. These measures enable us to assess the potential risks and challenges associated with compromising on our capital targets and to identify opportunities for improvement.",
+        "suggested_metrics": [
+          "Capital shortfall ratio (CSR)",
+          "Capital adequacy ratio (CAR)",
+          "Risk-weighted assets (RWA) growth rate"
+        ],
+        "visualization_hint": "table"
+      }
+    }
+  },
+  {
+    "requirement_title": "Quantifying IRRBB: economic value",
+    "generated": {
+      "requirement_title": "Quantifying IRRBB: economic value",
+      "category": "Capital",
+      "importance_summary": "This requirement is important as it ensures that banks accurately assess and manage their Interest Rate Risk in the Banking Book (IRRBB), which can significantly impact their capital requirements and profitability. Accurate quantification of IRRBB's economic value enables banks to make informed decisions about hedging strategies, risk management, and capital allocation, ultimately protecting their financial stability and stability of the financial system.",
+      "generated_disclosure": {
+        "section_title": "Quantifying IRRBB: Economic Value",
+        "narrative": "This section provides an overview of the bank's efforts to quantify its IRRBB exposure, including the economic value of its interest rate risk. The bank has implemented robust methodologies to assess its IRRBB exposure and has identified key risk drivers. The bank's IRRBB exposure is primarily driven by [list specific risk drivers, e.g., mismatch between asset and liability maturities]. The bank has implemented hedging strategies to mitigate this risk, including [list specific hedging strategies, e.g., interest rate swaps, forward contracts].",
+        "suggested_metrics": [
+          "IRRBB exposure as a percentage of total assets",
+          "Average duration mismatch between assets and liabilities",
+          "Value-at-Risk (VaR) of IRRBB exposure"
+        ],
+        "visualization_hint": "table"
+      }
+    }
+  },
+  {
+    "requirement_title": "Approximation of change in NII",
+    "generated": {
+      "requirement_title": "Approximation of change in NII",
+      "category": "Market Risk",
+      "importance_summary": "This disclosure requirement is important because it provides stakeholders with insights into the potential impact of interest rate changes on a bank's Net Interest Income (NII). Accurate estimation of NII changes enables investors, regulators, and analysts to better assess a bank's risk profile, capital adequacy, and overall financial performance.",
+      "generated_disclosure": {
+        "section_title": "NII Sensitivity to Interest Rate Changes",
+        "narrative": "The approximation of change in NII resulting from an increase in interest rates is a critical metric for understanding a bank's market risk exposure. This disclosure provides insights into the bank's ability to generate revenue from interest rate changes, which can significantly impact its financial performance. By understanding the NII sensitivity to interest rates, stakeholders can better assess the bank's capacity to absorb potential losses and maintain its capital adequacy ratio.",
+        "suggested_metrics": [
+          "Change in NII from 25 basis point rate increase",
+          "Change in NII from 50 basis point rate increase",
+          "Change in NII from 100 basis point rate increase"
+        ],
+        "visualization_hint": "table"
+      }
+    }
+  },
+  {
+    "requirement_title": "Quantifying IRRBB: earnings-based measures",
+    "generated": {
+      "requirement_title": "Quantifying IRRBB: earnings-based measures",
+      "category": "Market Risk",
+      "importance_summary": "This requirement is important as it helps banks quantify the impact of Interest Rate Risk in the Banking Book (IRRBB) on their earnings over a shorter time horizon, enabling them to better manage and mitigate potential risks and maintain profitability.",
+      "generated_disclosure": {
+        "section_title": "Quantifying IRRBB: Earnings-Based Measures",
+        "narrative": "This disclosure provides an overview of the bank's earnings-based measures for quantifying IRRBB. The measures consider the expected increase or reduction in Net Interest Income (NII) over a shorter time horizon, typically one to three years, up to a maximum of five years. This allows stakeholders to better understand the bank's exposure to IRRBB and its potential impact on earnings.",
+        "suggested_metrics": [
+          "Earnings-at-Risk (EaR) for different interest rate scenarios",
+          "Expected change in NII under different interest rate scenarios",
+          "Weighted Average Cost of Funds (WACF) sensitivity to interest rate changes"
+        ],
+        "visualization_hint": "table"
+      }
+    }
+  },
+  {
+    "requirement_title": "Time Horizon for Interest Rate Movements",
+    "generated": {
+      "requirement_title": "Time Horizon for Interest Rate Movements",
+      "category": "Capital",
+      "importance_summary": "This requirement is crucial for banks to accurately assess their capital adequacy and risk exposure. By disclosing the time horizon for interest rate movements, banks can better manage their interest rate risk and ensure compliance with Basel III capital requirements.",
+      "generated_disclosure": {
+        "section_title": "Interest Rate Movement Time Horizon",
+        "narrative": "The time horizon for interest rate movements represents the period over which interest rates are expected to remain stable or fluctuate. This information is essential for banks to evaluate their interest rate risk and adjust their capital planning and risk management strategies accordingly. A longer time horizon may indicate a higher level of stability and reduced risk exposure, while a shorter time horizon may indicate a greater degree of uncertainty and increased risk.",
+        "suggested_metrics": [
+          "Average time horizon for interest rate movements (in years)",
+          "Standard deviation of interest rate movements (in basis points)",
+          "Correlation coefficient between interest rates and bank's assets and liabilities"
+        ],
+        "visualization_hint": "table"
+      }
+    }
+  },
+  {
+    "requirement_title": "Variable Caps for Interest Rate Shock Scenarios",
+    "generated": {
+      "requirement_title": "Variable Caps for Interest Rate Shock Scenarios",
+      "category": "Risk-Weighted-Assets",
+      "importance_summary": "This requirement is crucial for banks as it ensures they maintain sufficient capital buffers to withstand potential interest rate shocks, thereby mitigating the risk of insolvency and maintaining financial stability.",
+      "generated_disclosure": {
+        "section_title": "Variable Caps for Interest Rate Shock Scenarios",
+        "narrative": "The Basel III framework introduces variable caps for interest rate shock scenarios to ensure that banks maintain sufficient capital buffers to withstand potential interest rate shocks. The caps are set at 500 bp for short-term, 400 bp for parallel, and 300 bp for long-term interest rate shock scenarios. This requirement is essential for banks to assess and manage their interest rate risk exposure accurately.",
+        "suggested_metrics": [
+          "Asset Sensitivity to Interest Rate Changes",
+          "Interest Rate Risk Exposure",
+          "Capital Buffer for Interest Rate Shock Scenarios"
+        ],
+        "visualization_hint": "table"
+      }
+    }
+  },
+  {
+    "requirement_title": "Rounding of interest rate shocks",
+    "generated": {
+      "requirement_title": "Rounding of Interest Rate Shocks",
+      "category": "Credit Risk",
+      "importance_summary": "This requirement is important for banks to improve the accuracy and transparency of their credit risk modeling and stress testing. Rounding interest rate shocks to the nearest multiple of 25 bp ensures that the bank's risk assessment and capital planning are based on a more realistic and conservative estimate of potential losses.",
+      "generated_disclosure": {
+        "section_title": "Rounding of Interest Rate Shocks",
+        "narrative": "As part of our credit risk assessment and stress testing process, we round interest rate shocks to the nearest multiple of 25 bp to ensure a more accurate and conservative estimate of potential losses. This rounding is applied to the values from step 5 of our stress testing process.",
+        "suggested_metrics": [
+          "Total interest rate shock exposure",
+          "Rounded interest rate shock exposure",
+          "Difference between rounded and actual interest rate shock exposure"
+        ],
+        "visualization_hint": "table"
+      }
+    }
+  }
+]

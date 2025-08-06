@@ -1,3 +1,17 @@
-.text-subheading{
-    color: #A70DD6 !important;
+.text-subheading {
+  color: #a70dd6 !important;
+}
+
+.button-gradient {
+  background: #4a018f;
+  background: linear-gradient(
+    90deg,
+    rgba(74, 1, 143, 1) 3%,
+    rgba(105, 3, 145, 1) 22%,
+    rgba(172, 109, 189, 1) 100%
+  );
+}
+
+.button-export{
+    border-color: #a70dd6;
 }
